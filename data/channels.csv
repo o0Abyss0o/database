@@ -186,7 +186,7 @@ id,name,alt_names,network,owners,country,categories,is_nsfw,launched,closed,repl
 3Ktv.zw,3Ktv,,,,ZW,entertainment,FALSE,,,,
 3MusicTV.gh,3Music TV,,,,GH,music,FALSE,,,,https://www.3music.tv/
 3Plus.al,3 Plus,,,,AL,series,FALSE,,,,http://www.tring.al/
-3Plus.ch,3+,,,,CH,,FALSE,,,,https://www.oneplus.ch/
+3Plus.ch,3+,,,CH Media,CH,general,FALSE,2006-01-01,,,https://www.oneplus.ch/
 3rdTV.gh,3rd TV,,,,GH,music,FALSE,,,,https://3rdtv.live/
 3sat.de,3sat,,,ZDF;ORF;SRG;ARD,DE,general,FALSE,1984-12-01,,,https://www.3sat.de/
 3Sport.af,3Sport,,,,AF,sports,FALSE,,2021-10-10,,
@@ -290,7 +290,7 @@ id,name,alt_names,network,owners,country,categories,is_nsfw,launched,closed,repl
 7Plus.ch,7+,,,CH Media,CH,general,FALSE,,,,https://inhalte.oneplus.ch/programm/tv7plus
 7PlusNickSchweiz.ch,7+/Nick Schweiz,,,CH Media,CH,kids,FALSE,2021-10-01,,,https://tv.blue.ch/tv-guide
 7RadioVisione.it,7 RadioVisione,,,,IT,music,FALSE,,,,https://radio7note.com/
-7Sky.iq,7 Sky,,,,IQ,,FALSE,,,,
+7Sky.iq,7 Sky,,,,IQ,news,FALSE,,,,
 7SMusic.in,7S Music,,,,IN,music,FALSE,,,,
 7SpiritsTV.et,7 Spirits TV,,,Apostle Zelalem Getachew,ET,religious,FALSE,,,,
 7StarsTV.jo,7 Stars TV,قناة سفن 7 ستار بث مباشر,,,JO,general,FALSE,,,,
@@ -427,7 +427,7 @@ ABCTV.cz,ABC TV,,,,CZ,shop,FALSE,2019-06-14,,,https://abctv.cz/
 ABCtv.ec,ABC tv,,,TBN Enlace,EC,religious,FALSE,1998-10-20,,,https://www.enlace.org/
 ABCTV.it,ABC TV,,,,IT,general,FALSE,,,,https://abctv.it/
 ABCTV.mw,ABC-TV,,,African Bible Colleges,MW,religious,FALSE,,,,https://www.africanbiblecolleges.com/malawi
-ABCTVGhana.gh,ABC TV Ghana,,,,GH,,FALSE,,,,
+ABCTVGhana.gh,ABC TV Ghana,,,,GH,news,FALSE,,,,https://abcnewsgh.com/
 ABCTVParaguay.py,ABC-TV Paraguay,,,Grupo ABC Comunicaciones,PY,general,FALSE,2017-08-07,,,https://www.abc.com.py/tv/
 ABCTVPlus.au,ABC TV Plus,,ABC Television,Australian Broadcasting Corporation,AU,entertainment,FALSE,2001-07-01,,,https://www.abc.net.au/tv
 AbdulmajeedAbdullah.sa,Abdulmajeed Abdullah,عبدالمجيد عبدالله,Shahid,MBC Group,SA,music,FALSE,,,,
@@ -486,8 +486,8 @@ ABNTV.zm,ABN TV,,,,ZM,general,FALSE,,,,
 ABNTVIndia.us,ABN TV India,Aramaic Broadcasting Network,,,US,religious,FALSE,,,,https://www.abntvindia.com/
 ABNUrdu.us,ABN Urdu,Aramaic Broadcasting Network,,,US,religious,FALSE,,,,https://www.abnsat.com/
 ABolaTV.pt,A Bola TV,,,Sociedade Vicra Desportiva,PT,sports,FALSE,2012-10-12,,,http://www.abolatv.pt/
-AbolDuka.za,Abol Duka,አባል-ዱካ,,MultiChoice,ZA,,FALSE,,,,https://www.dstv.com/aboltv/am-et/channel/%E1%8A%A0%E1%89%A3%E1%88%8D-%E1%8B%B1%E1%8A%AB
-AbolTV.za,Abol TV,አባል,,MultiChoice,ZA,,FALSE,,,,https://aboltv.dstv.com/
+AbolDuka.za,Abol Duka,አባል-ዱካ,,MultiChoice,ZA,entertainment,FALSE,,,,https://www.dstv.com/aboltv/am-et/channel/%E1%8A%A0%E1%89%A3%E1%88%8D-%E1%8B%B1%E1%8A%AB
+AbolTV.za,Abol TV,አባል,,MultiChoice,ZA,entertainment,FALSE,,,,https://aboltv.dstv.com/
 AboodTV.tz,Abood TV,,,Abood Media,TZ,entertainment,FALSE,,,,https://www.aboodmedia.co.tz/
 ABPAnanda.in,ABP Ananda,,ABP,ABP Group,IN,news,FALSE,2005-06-06,,,https://bengali.abplive.com/
 ABPAsmita.in,ABP Asmita,,ABP,ABP Group,IN,news,FALSE,2016-01-01,,,https://gujarati.abplive.com/
@@ -577,7 +577,7 @@ ActonEducationTV.us,Acton Education TV,,,,US,education,FALSE,,,,http://actontv.o
 ActonGovernmentTV.us,Acton Government TV,,,,US,legislative,FALSE,,,,http://actontv.org/on-demand/government
 ActonPublicTV.us,Acton Public TV,,,,US,general,FALSE,,,,http://actontv.org/on-demand/livestream/public
 ACTSTV.uk,ACTS TV,Arise Christian Television,,,UK,religious,FALSE,,,,https://www.ariseuk.org/about-us
-Actu30TV.cd,Actu30 TV,,,,CD,,FALSE,,,,https://actu30.cd/
+Actu30TV.cd,Actu30 TV,,,,CD,news,FALSE,,,,https://actu30.cd/
 Actualidad360.es,Actualidad 360,,,Agencia EFE;Europa Press;Love TV Channels,ES,news,FALSE,,,,https://lovetvchannels.com/en/our-channels/#actualidad
 ACTUNGOLOTV.cd,ACTU NGOLO TV,,,,CD,news,FALSE,,,,https://actungolotv.com/
 ACTV.be,ACTV,Antenne Centre Télévision,,,BE,general,FALSE,1982-12-18,,,https://www.antennecentre.tv/
