@@ -229,7 +229,10 @@ async function addChannel(issue: Issue) {
   })
   data.logos.add(newLogo)
 
-  const errors = newChannel.validate()
+  const errors = new Collection<ValidatorError>()
+  errors.concat(newFeed.validate())
+  errors.concat(newLogo.validate())
+  errors.concat(newChannel.validate())
   if (errors.isNotEmpty()) {
     errors.forEach((err: ValidatorError) => {
       log.error(err.message)
@@ -255,7 +258,7 @@ async function editChannel(issue: Issue) {
 
   const issueData: IssueData = issue.data
 
-  let channelId = issueData.getString('channel_id')
+  const channelId = issueData.getString('channel_id')
   if (!channelId) {
     log.error('The request is missing the channel ID')
     skippedIssues.add(issue)
@@ -423,6 +426,12 @@ async function editFeed(issue: Issue) {
     (feed: Feed) => feed.channel === channelId && feed.id === feedId
   )
 
+  if (!feed) {
+    log.error(`Feed with id "${feedId}" and channel "${channelId}" not found`)
+    skippedIssues.add(issue)
+    return
+  }
+
   const isMain = feed.is_main
 
   cacheData()
@@ -497,7 +506,7 @@ async function addLogo(issue: Issue) {
   const issueData: IssueData = issue.data
 
   const channelId = issueData.getString('channel_id')
-  const feedId = issueData.getString('feed_id') || ''
+  const feedId = issueData.getString('feed_id') || null
   const logoUrl = issueData.getString('logo_url')
 
   if (!channelId) {
