@@ -5257,9 +5257,9 @@ ChannelNecoInternational.jp,Channel Neco International,,,,JP,movies,FALSE,,,,htt
 ChannelO.za,Channel O,,,Multichoice Group,ZA,music,FALSE,1997-10-17,,,http://channelo.dstv.com/
 ChannelOllehTV.kr,Channel Olleh TV,채널 Olleh TV,,,KR,movies,FALSE,2019-05-01,,,https://www.kaonmedia.com:8443/eng/company/intro02_3.asp
 ChannelOne.lk,Channel One,,,MTV Channel,LK,general,FALSE,1992-12-14,,,https://www.dialog.lk/television-channel-one-tv/
-ChannelOne.ru,Channel One,Первый канал;Pervyy Kanal;First Channel;Channel 1 Ostankino;Public Russian Television;ORT,,Government of Russia,RU,general,FALSE,1938-03-09,,,https://www.1tv.ru/
+ChannelOne.ru,Channel One,Первый канал;Pervyy Kanal;First Channel;Channel 1 Ostankino;Public Russian Television;ORT,,Government of the Russian Federation,RU,general,FALSE,1938-03-09,,,https://www.1tv.ru/
 ChannelOne.us,Channel One,Kanal Yek TV;Channel Yek,,,US,news;culture,FALSE,,,,https://ch1.cc/
-ChannelOneCIS.ru,Channel One CIS,Первый СНГ,,Government of Russia,RU,general,FALSE,,,,https://www.1tv.ru/
+ChannelOneCIS.ru,Channel One CIS,Первый СНГ,,Government of the Russian Federation,RU,general,FALSE,,,,https://www.1tv.ru/
 ChannelOneEurasia.kz,Channel One Eurasia,Первый канал Евразия;Perviy Kanal Eurasia,,,KZ,general,FALSE,1997-11-04,,,https://1tv.kz/
 ChannelOneTV.gh,ChannelOne TV,Channel1 TV,,,GH,general,FALSE,,,,https://channel1news.com/
 ChannelPlusBuenaventura.co,Channel Plus Buenaventura,CNC Buenaventura,CNC,,CO,general,FALSE,,,,
@@ -6487,7 +6487,7 @@ CreaLaTV.mx,CreaLaTV,,,,MX,general,FALSE,,,,https://www.creala.tv/
 Create.us,Create,,,,US,education,FALSE,,,,https://createtv.com/
 CreateandCraft.uk,Create and Craft,Create & Craft,,,UK,education,FALSE,,,,https://www.createandcraft.com/
 CreationTV.hk,Creation TV,創世電視,,Audiovisual Mission Limited,HK,religious,FALSE,2003-03-07,,,http://www.creation-tv.com/ctv_hk/
-CreaTV.kn,CreaTV,,,Ministry of Small Business and Entrepreneurship,KN,entertainment,FALSE,,,,
+CreaTV.kn,CreaTV,,,Ministry of Small Business and Entrepreneurship,KN,entertainment,FALSE,2022-07-01,,,
 CreaTVChannel15.us,CreaTV Channel 15,,,,US,general,FALSE,,,,https://www.creatvsj.org/community-channel-15
 CreaTVChannel27.us,CreaTV Channel 27,,,,US,general,FALSE,,,,https://www.creatvsj.org/bay-voice-tv-channel-27
 CreaTVChannel28.us,CreaTV Channel 28,,,,US,education,FALSE,,,,https://www.creatvsj.org/classrooms-channel-28
@@ -7499,8 +7499,8 @@ DombyraTV.kz,Dombyra TV,,,,KZ,music,FALSE,,,,
 DominicanView.do,Dominican View,,,,DO,entertainment,FALSE,,,,https://www.olympusat.com/networks/dominican-view/
 DominionTV.cm,Dominion TV,,,,CM,religious,FALSE,,,,
 DominionTV.gh,Dominion TV,,,,GH,religious,FALSE,,,,https://dominiontv.net/
-Domkino.ru,Dom kino,Дом кино,,Government of Russia,RU,movies,FALSE,2005-12-01,,,http://www.domkino.tv/
-DomkinoPremium.ru,Dom kino Premium,Дом кино Премиум,,Government of Russia,RU,movies,FALSE,2015-04-07,,,https://www.domkino-premium.tv/
+Domkino.ru,Dom kino,Дом кино,,Government of the Russian Federation,RU,movies,FALSE,2005-12-01,,,http://www.domkino.tv/
+DomkinoPremium.ru,Dom kino Premium,Дом кино Премиум,,Government of the Russian Federation,RU,movies,FALSE,2015-04-07,,,https://www.domkino-premium.tv/
 Don24.ru,Don 24,Дон 24,,,RU,news,FALSE,,,,https://don24.ru/tv/
 donauKanalTV.at,donau Kanal TV,donau_Kanal TV,,,AT,general,FALSE,,,,https://www.donaukanal.tv/
 Donbass.ua,Donbass,Донбасс;Донбасс 24,,Ukraine TV,UA,,FALSE,2009-11-09,2022-07-22,,http://www.donbass.tv/
@@ -11619,7 +11619,7 @@ Island92FM.sx,Island 92 FM,,,,SX,music,FALSE,,,,https://island92.com/
 IslandEscape.us,Island Escape,,,,US,relax,FALSE,,,,
 IslandEyeTV.tc,Island Eye TV,,,,TC,culture,FALSE,,,,https://islandeyetv.com/
 Islandia.ua,Islandia,Ісландія;Iceland,,ISLND,UA,,FALSE,,,,
-IslandLuckTV.bs,Island Luck TV,,,,BS,entertainment,FALSE,,,,https://iltvstudios.com/
+IslandLuckTV.bs,Island Luck TV,,,ILTV Studios,BS,entertainment,FALSE,,,,https://iltvstudios.com/
 IslandTV.us,Island TV,,,Fatima Group,US,general,FALSE,,,,https://islandtv.tv/contactus/
 IslandTVPlus.us,Island TV Plus,Island TV+,,Fatima Group,US,general,FALSE,,,,https://islandtv.tv/contactus/
 Islatel.es,Islatel,,,,ES,,FALSE,,,,https://islatel.es/
@@ -18873,6 +18873,7 @@ MagnoliaNetwork.ca,Magnolia Network,DIY Network Canada;Fine Living Canada,,Corus
 MagnoliaNetwork.us,Magnolia Network,DIY Network East,,Warner Bros. Discovery Inc.,US,lifestyle,FALSE,1999-09-30,,,https://magnolia.com/network/
 MagtiHiti.ge,Magti Hiti,,,Magticom LLC,GE,,FALSE,,,,https://www.magticom.ge/
 MagtiKino.ge,Magti Kino,,,Magticom LLC,GE,movies,FALSE,,,,https://www.magticom.ge/
+MaguareEstereoTV.co,Maguare Estereo TV,Maguaré Estéreo TV,,,CO,music,FALSE,,,,https://www.maguaretech.com/tv
 MagyarMoziTV.hu,Magyar Mozi TV,,,The Tematic Media Group,HU,movies,FALSE,2023-03-01,,,https://magyarmozitv.hu/
 MahaaMax.in,Mahaa Max,,,,IN,entertainment,FALSE,,,,
 MahaaNews.in,Mahaa News,,,,IN,news,FALSE,,,,https://mahaanews.com/
@@ -19167,7 +19168,7 @@ MaxxEmpireTV.gh,Maxx Empire TV,,,,GH,music,FALSE,,,,http://maxxempireonline.com/
 MayaChannel.th,Maya Channel,,,Maya Channel 2002 Co Ltd,TH,entertainment,FALSE,,,,http://www.maya-channel.com/
 MayaTV.hn,Maya TV,Canal 66,,,HN,news,FALSE,2004-05-01,,,https://mayatv.hn/
 Mayavision.mx,Mayavision,Mayavisión,,,MX,general,FALSE,,,,https://www.mayavision.com.mx/
-Mayotte1ere.yt,Mayotte 1ere,Mayotte 1ère,,France Televisions,YT,general,FALSE,1986-12-21,,,https://la1ere.francetvinfo.fr/mayotte/
+Mayotte1ere.yt,Mayotte 1ere,Mayotte 1ère;Mayotte La Première,,France Televisions,YT,general,FALSE,1986-12-21,,,https://la1ere.francetvinfo.fr/mayotte/
 MayotteOneTV.yt,Mayotte One TV,,,,YT,music,FALSE,,,,https://mayotteone.fr/
 Mayyazhi.in,Mayyazhi,,,,IN,general,FALSE,,,,
 MazhavilManorama.in,Mazhavil Manorama,,Malayala Manorama Television,Malayala Manorama Television (MMTV) Ltd.,IN,entertainment,FALSE,2011-10-31,,,https://www.mazhavilmanorama.com
@@ -19966,7 +19967,7 @@ MovieBangla.bd,Movie Bangla,,,,BD,movies,FALSE,,,,https://moviebangla.tv/
 MovieBox.mn,MovieBox,,,,MN,movies,FALSE,,,,https://moviebox.mn/
 MovieClassic.ru,Movie Classic,Классика Кино,,,RU,movies,FALSE,,,,https://hdmedia.ru/about-channels/klassika-kino/
 Moviedome.us,Moviedome,,Pluto TV,,US,movies,FALSE,,,,https://pluto.tv/en/live-tv/moviedome-de
-MovieFe.co,MovieFe,,,,CO,movies,FALSE,,,,
+MovieFe.ve,MovieFe,,,Grupo Lorini,VE,movies;religious,FALSE,,,,
 MovieKingdom.us,Movie Kingdom,,,,US,movies,FALSE,,,,
 MovieMax.mn,MovieMax,,,,MN,movies,FALSE,,,,
 MovieMax.us,MovieMax,,,Home Box Office Inc,US,movies,FALSE,,2025-08-15,,http://www.cinemax.com/
@@ -20383,7 +20384,7 @@ Muzvar.ua,Muzvar,Музвар,,Oleksiy Dontsov;Yulian Novak,UA,music,FALSE,,,,ht
 Muzyka1.ru,Muzyka 1,Музыка 1,TvikselTV,,RU,music,FALSE,,,,
 Muzyka2.ru,Muzyka 2,Музыка 2,TvikselTV,,RU,music,FALSE,,,,
 MuzykaKino.ru,Muzyka Kino,Музыка Кино,TvikselTV,,RU,music,FALSE,,,,
-MuzykaPervogo.ru,Muzyka Pervogo,Музыка Первого;MuzikaPervogo,,Government of Russia,RU,music,FALSE,2005-12-01,,,https://www.muz1.tv/
+MuzykaPervogo.ru,Muzyka Pervogo,Музыка Первого;MuzikaPervogo,,Government of the Russian Federation,RU,music,FALSE,2005-12-01,,,https://www.muz1.tv/
 MUZZIK.rs,MUZZIK,,,Original Film d.o.o.,RS,music,FALSE,,,,https://www.muzzik.tv/
 MuzzikHipHop.rs,Muzzik HipHop,,,Original Film d.o.o.,RS,music,FALSE,,,,https://www.muzzik.tv/
 MuzzikMediteraneo.rs,Muzzik Mediteraneo,,,Original Film d.o.o.,RS,music,FALSE,,,,https://www.muzzik.tv/
@@ -22360,7 +22361,7 @@ OTAUTVChannel.kz,OTAU TV Channel,,,JSC Kazteleradio,KZ,general,FALSE,2011-05-25,
 Otkritiymir.ru,Otkritiy mir,Открытый мир,,Prime Cinema,RU,lifestyle,FALSE,2009-01-01,2018-01-01,OtkritiymirZdorove.ru,https://omir.tv/
 OtkritiymirZdorove.ru,Otkritiy mir. Zdorove,Открытый мир. Здоровье,,Prime Cinema,RU,lifestyle,FALSE,2018-01-01,,,https://omir.tv/
 OTO.si,OTO,POP Non Stop Oto,,CME,SI,animation;kids,FALSE,2013-01-01,,,https://pro-plus.si/
-OTR.ru,OTR,Общественное Телевидение России,,Government of Russia,RU,general,FALSE,2013-05-19,,,https://otr-online.ru/
+OTR.ru,OTR,Общественное Телевидение России,,Government of the Russian Federation,RU,general,FALSE,2013-05-19,,,https://otr-online.ru/
 OTS.ru,OTS,ОТС,,,RU,general,FALSE,2012-07-06,,,http://otstv.ru/
 OTSE.ua,OTSE,ОЦЕ,,Khmarochos Holdings,UA,entertainment,FALSE,2017-09-01,,,http://www.otsetv.ua/
 OttoChannel.it,Otto Channel,Canale 16,,,IT,general,FALSE,,,,https://www.ottochannel.tv/
@@ -23343,7 +23344,7 @@ PNGCMNTV.pg,PNG CMNTV,Papua New Guinea Christian Media Network Television,,,PG,r
 PNN.kh,PNN,,,,KH,,FALSE,,,,https://pnn.com.kh/
 PNNNews.pk,PNN News,,,,PK,news,FALSE,,,,https://pnntv.pk/
 PNTV.us,PNTV,,,,US,,FALSE,,,,
-Pobeda.ru,Pobeda,Победа,,Government of Russia,RU,,FALSE,,,,https://pobeda.tv/
+Pobeda.ru,Pobeda,Победа,,Government of the Russian Federation,RU,,FALSE,,,,https://pobeda.tv/
 pocketwatch.us,pocket.watch,,,,US,kids,FALSE,,,,https://pocket.watch/
 PoderdeDiosTV.bo,Poder de Dios TV,,,Ministerio del Nuevo Pacto Poder de Dios,BO,religious,FALSE,,,,
 PodiumTV.nl,Podium.TV,,,,NL,,FALSE,,,,
@@ -25166,11 +25167,7 @@ RTPNoticias.pt,RTP Noticias,RTP 3,,,PT,news,FALSE,,,,http://www.rtp.pt/noticias/
 RTPTelevision.co,RTP Television,RTP Televisión,,,CO,general,FALSE,,,,
 RTQQueretaro.mx,RTQ Queretaro,,,,MX,,FALSE,,,,
 RTRBelarus.by,RTR-Belarus,РТР-Беларусь,,,BY,general,FALSE,2008-07-01,,,http://belrtr.by/
-RTRPlaneta.ru,RTR-Planeta,РТР-Планета,VGTRK,Russian Government,RU,general,FALSE,2002-07-01,,,http://rtr-planeta.com/
-RTRPlanetaAsia.ru,RTR-Planeta Asia,РТР-Планета Азия,,,RU,general,FALSE,,,,http://rtr-planeta.com/
-RTRPlanetaCIS.ru,RTR-Planeta CIS,РТР-Планета СНГ,,,RU,general,FALSE,,,,http://rtr-planeta.com/
-RTRPlanetaEurope.ru,RTR-Planeta Europe,РТР-Планета Европа,,,RU,general,FALSE,,,,http://rtr-planeta.com/
-RTRPlanetaUSA.us,RTR-Planeta USA,РТР-Планета США,,,US,general,FALSE,,,,http://rtr-planeta.com/
+RTRPlaneta.ru,RTR-Planeta,РТР-Планета;Россия-РТР;Planeta-RTR,VGTRK,Russian Government,RU,general,FALSE,2002-07-01,,,http://rtr-planeta.com/
 RTRSplus.ba,RTRS plus,РТРС плус,,Radiotelevizija Republike Srpske,BA,,FALSE,,,,https://plus.rtrs.tv/
 RTRSTV.ba,RTRS TV,Radio Televizija Republike Srpske;Радио Tелевизија Републике Српске;РТРС,,Radiotelevizija Republike Srpske,BA,,FALSE,,,,https://www.rtrs.tv/
 RTRTV.ec,RTRTV,RTR Televisión,,TroncalNet,EC,general,FALSE,,,,https://rtrtv.ec/
@@ -28677,7 +28674,7 @@ TelemadridINT.es,Telemadrid INT,Telemadrid Internacional;Telemadrid SAT,,Radio T
 Telemagino.ca,Telemagino,Télémagino,,WildBrain,CA,,FALSE,2010-07-05,,,http://www.telemagino.ca/
 TeleMagQuebec.ca,Tele-Mag Quebec,Télé-Mag Québec,,,CA,general,FALSE,,,,
 TeleMajg.it,TeleMajg,,,,IT,general,FALSE,,,,http://www.telemajg.com/
-Telemante.yt,Telemante,Télémante,,,YT,culture,FALSE,,,,
+Telemante.yt,Telemante,Télémante,,,YT,culture,FALSE,2001-04-19,,,
 Telemantova.it,Telemantova,,,,IT,general,FALSE,,,,https://www.telemantova.it/
 Telemar.co,Telemar,,,Codisert S.A.,CO,general,FALSE,,,,https://codisert.com.co/
 TeleMar.cu,TeleMar,,ICRT,,CU,general,FALSE,2005-08-13,,,https://telemarscn.blogspot.com/
@@ -28951,7 +28948,7 @@ TelevisionAvilena.cu,Television Avilena,Televisión Avileña,ICRT,,CU,general,FA
 TelevisionAzanaque.bo,Television Azanaque,Televisión Azanaque,,,BO,general,FALSE,,,,
 TelevisionCamaguey.cu,Television Camaguey,Televisión Camagüey,ICRT,,CU,general,FALSE,1984-06-24,,,https://www.tvcamaguey.icrt.cu/
 TelevisionCanaria.es,Television Canaria,Televisión Canaria;Televisión Autonómica de Canarias,,,ES,,FALSE,,,,https://rtvc.es
-TelevisionCaribbean.kn,Television Caribbean,TVC,,Palm Beach Media,KN,general,FALSE,,,,https://www.tvcplus.live/
+TelevisionCaribbean.kn,Television Caribbean,TVC,,Palm Branch Media,KN,general,FALSE,2023-12-11,,,https://www.tvcplus.live/
 TelevisionComayaguaCanal40.hn,Television Comayagua Canal 40,,,,HN,,FALSE,,,,http://televisioncomayagua.com/
 TelevisionConsciente.es,Television Consciente,Televisión Consciente,,,ES,religious,FALSE,,,,https://www.televisionconsciente.com/
 TelevisionCristal.bo,Television Cristal,Televisión Cristal;Cristal TV,,,BO,general,FALSE,,,,https://televisioncristal.com/
