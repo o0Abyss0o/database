@@ -106,7 +106,6 @@ id,name,alt_names,network,owners,country,categories,is_nsfw,launched,closed,repl
 24Horas.es,24 Horas,Canal 24 Horas;24h,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,http://www.rtve.es/alacarta/tve/24-horas/
 24HorasCanarias.es,24 Horas Canarias,Canal 24 Horas Canarias,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/
 24HorasCatalunya.es,24 Horas Catalunya,Canal 24 Horas Catalunya,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/
-24HorasInternacional.es,24 Horas Internacional,Canal 24 Horas Internacional,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,https://www.rtve.es/television/tve-internacional
 24HourFreeMovies.us,24 Hour Free Movies,,,Future Today Inc.,US,movies,FALSE,,,,https://channelstore.roku.com/en-ca/details/9901df514a904063a91fd54fb1f2971c/24-hour-movie-channel
 24Kanal.ua,24 Kanal,24 Канал,,,UA,news,FALSE,,,,https://24tv.ua/online/
 24Kitchen.us,24Kitchen,,,The Walt Disney Company,US,cooking,FALSE,,,,https://www.24kitchen.bg/
@@ -2279,7 +2278,6 @@ AvivamientoTV.do,Avivamiento TV,,,,DO,religious,FALSE,,,,
 AvivaTV.hn,Aviva TV,,,,HN,,FALSE,,,,https://avivahn.com/
 AVKing.jp,AV King,AV王,,JAMTV Inc,JP,xxx,TRUE,,,,https://avking.jp/
 AVS.be,AVS,,,,BE,general,FALSE,,,,https://www.avs.be/
-AVSGent.be,AVS Gent,,,,BE,general,FALSE,,,,https://www.avs.be/
 AVTKhyber.pk,AVT Khyber,,,Kamran Hamid Raja,PK,entertainment,FALSE,2004-07-01,,,https://www.avtchannels.com/
 Avto24.ru,Avto24,Авто24,,Stream,RU,auto,FALSE,2013-09-23,,,http://avto24tv.ru/
 AvtoradioUkraine.ua,Avtoradio Ukraine,Авторадіо Украина,,,UA,auto,FALSE,,,,http://avtoradio.ua/
@@ -3434,6 +3432,8 @@ BSYoshimoto.jp,BS Yoshimoto,BSよしもと,,,JP,lifestyle,FALSE,,,,https://bsy.c
 BTATV.gn,BTA TV,,,BTA Média,GN,general,FALSE,,,,https://btagroupe.com/
 BTATV.ve,BTA TV,,,,VE,music,FALSE,,,,https://btatv.tv/
 BTB.pl,BTB,Telewizja BTB;Bombaska Telewizja Boża,Telewizja BTB,Telewizja BTB,PL,general,FALSE,,,,https://btb.j00r.us/
+BTB2.pl,BTB 2,,,,PL,general,FALSE,,,,
+BTB3.pl,BTB 3,,,,PL,general,FALSE,,,,
 BTBInfo.pl,BTB Info,,Telewizja BTB,Telewizja BTB,PL,documentary;news,FALSE,,,,https://btb.j00r.us
 BTBInternational.pl,BTB International,,,,PL,,FALSE,,,,
 BTBMusic.pl,BTB Music,,Telewizja BTB,Telewizja BTB,PL,music,FALSE,,,,https://btb.j00r.us
@@ -4678,7 +4678,7 @@ CarangTV.id,Carang TV,Ambon TV,,DMS Media Group,ID,general,FALSE,2006-12-29,2023
 CarareTV.co,Carare TV,,,,CO,general,FALSE,,,,
 CarasTV.ar,Caras TV,,,Editorial Perfil,AR,entertainment,FALSE,2024-03-04,,,https://caras.perfil.com/carastv
 CarCityAdventures.pl,Car City Adventures,,,,PL,,FALSE,,,,https://www.rakuten.tv
-CardinalTV.uy,Cardinal TV,,,,UY,general,FALSE,,,,https://tv.vera.com.uy/content/2s6pw
+CardinalTV.uy,Cardinal TV,,,Cámara Uruguaya de Televisión para Abonados,UY,general,FALSE,,,,https://tv.vera.com.uy/content/2s6pw
 CardioTVSRC.ro,Cardio TV SRC,,,,RO,lifestyle,FALSE,,,,https://www.cardiotvsrc.ro/
 CareWorldTV.in,Care World TV,,,,IN,lifestyle,FALSE,,,,http://www.careworldtv.com/
 CarFanChannel.cn,Car Fan Channel,车迷频道,,,CN,auto,FALSE,,,,https://www.wasu.cn/
@@ -7242,6 +7242,7 @@ Dikayarybalka.ru,Dikaya rybalka,Дикая рыбалка,,,RU,outdoor,FALSE,,,,
 DikhTV.hu,Dikh TV,,,Első Roma Média Kft.,HU,culture,FALSE,,,,https://www.dikhtv.hu/
 Dikij.ru,Dikij,Дикий,,,RU,outdoor,FALSE,,,,https://dikoe.tv/channels/telekanal-dikij.html
 DikijInternational.ru,Dikij International,Дикий International,,,RU,outdoor,FALSE,,,,http://dikoe.tv/channels/dikij-international.html
+DikrichTV.lu,Dikrich TV,,,,LU,general,FALSE,,,,https://diekirch.lu/fr/commune-de-diekirch/mediatheque/dikrich-tv
 Diktyo1.gr,Diktyo1,ΔΙΚΤΥΟ 1,HellasNet,Akrites Anonymi Tileoptiki Etaireia,GR,news,FALSE,1998-01-01,,,https://www.diktyo1.com/
 DiktyoTV.gr,Diktyo TV,Δίκτυο Τηλεόραση,,,GR,general,FALSE,,,,https://diktyotv.gr/live/
 Dillagi.in,Dillagi,,,,IN,entertainment,FALSE,,,,http://www.dillagi.tv/
@@ -9478,7 +9479,7 @@ FrontTV.rs,Front TV,Фронт ТВ,,Dušan Ćosić,RS,news,FALSE,,,,http://www.
 FrootTV.us,Froot TV,,,,US,lifestyle,FALSE,,,,
 FS1Salzburg.at,FS1 Salzburg,,,,AT,general,FALSE,,,,https://fs1.tv/info/kontakt-anfahrt/
 FSMCongress.fm,FSM Congress,,,,FM,legislative,FALSE,,,,https://www.cfsm.gov.fm/
-FTC.uy,FTC,Florida Televisora Color,,,UY,general,FALSE,,,,
+FTC.uy,FTC,Florida Televisora Color,,Libertador Media Group,UY,general,FALSE,1994-07-16,,,
 FTF.us,FTF,For The Fans,,,US,sports,FALSE,,,,https://www.ftfnext.com/
 FTFSports.us,FTF Sports,,,,US,sports,FALSE,,,,https://watch.plex.tv/live-tv/channel/for-the-fans
 FTNTV.ml,FTN-TV,,,,ML,religious,FALSE,,,,https://ftntv.tv/
@@ -25504,6 +25505,7 @@ RTVDordrecht.nl,RTV Dordrecht,,,,NL,,FALSE,,,,
 RTVDrenthe.nl,RTV Drenthe,,,,NL,,FALSE,,,,https://www.rtvdrenthe.nl/
 RTVDukagjini.xk,RTV Dukagjini,,,,XK,general,FALSE,,,,https://www.dukagjini.com/tv/
 RTVECC.cd,RTVECC,Radio Télévision Église du Christ au Congo,,Église du Christ au Congo,CD,religious,FALSE,,,,https://rtvecc.cd/
+RTVELaRevuelta.es,RTVE La Revuelta,,,RTVE,ES,entertainment,FALSE,,,,https://www.rtve.es/play/videos/la-revuelta/
 RTVElDiario.pe,RTV El Diario,,,,PE,general,FALSE,,,,https://diariodelcusco.pe/
 RTVElVendrell.es,RTV El Vendrell,,,,ES,,FALSE,,,,https://www.rtvelvendrell.cat/directes/televisio/
 RTVEPlayevent1.es,RTVE Play event 1,,,RTVE,ES,news,FALSE,,,,
@@ -29626,7 +29628,7 @@ TimelessDiziChannel.ro,Timeless Dizi Channel,,,SPI International,RO,,FALSE,,,,ht
 TimelessDiziChannel.rs,Timeless Dizi Channel,Timeless Dizi Channel Srbija,,SPI International,RS,,FALSE,,,,https://timelessdramachannel.com/dizi-srbija/
 TimelessDiziChannel.ru,Timeless Dizi Channel,Timeless Dizi Channel Россия;Timeless Drama Channel,,SPI International,RU,,FALSE,,,,https://timelessdramachannel.com/dizi-russia/
 TimelessTV.us,Timeless TV,,,Cannella Media DTC,US,classic;shop,FALSE,,,,
-Timeline.us,Timeline,,,,US,entertainment,FALSE,,,,
+Timeline.uk,Timeline,,,Little Dot Studios Limited;All3Media Limited;RedBird IMI;International Media Investments (IMI) Holdings FZ LLC,UK,entertainment,FALSE,2021-02-26,,HistoryHit.uk,https://www.littledotstudios.com/en-us/channels
 TimeNews.pk,Time News,,,,PK,news,FALSE,,,,
 TimesBrasil.br,Times Brasil,,CNBC,Times Brasil;Attention Economics,BR,news,FALSE,2024-11-17,,,https://timesbrasil.com.br/
 TimesNow.in,Times Now,,Times Network,The Times Group;Bennett Coleman and Company Limited (BCCL),IN,news,FALSE,2006-01-23,,,https://www.timesnownews.com/
@@ -30947,9 +30949,9 @@ TVEducacaoMA.br,TV Educacao MA,TV Educação MA,,,BR,,FALSE,,,,https://www.educa
 TVEducativaES.br,TV Educativa ES,TVE ES;TV Educativa do Espírito Santo,,,BR,education;kids,FALSE,,,,https://rtv.es.gov.br/
 TVEdukasi.id,TV Edukasi,,,Ministry of Education Culture Research and Technology,ID,,FALSE,2004-10-12,,,https://tve.kemdikbud.go.id/
 TVEger.hu,TV Eger,,,,HU,,FALSE,,,,http://www.tveger.hu/
-TVEInternacionalAmerica.es,TVE Internacional America,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/television/tve-internacional/america1/
-TVEInternacionalAsiaOceania.es,TVE Internacional Asia-Oceania,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/television/tve-internacional/europa/
-TVEInternacionalEuropeAsia.es,TVE Internacional Europe-Asia,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/television/tve-internacional/asia/
+TVEInternacionalAmerica.es,TVE Internacional America,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/play/tve-internacional/
+TVEInternacionalAsiaOceania.es,TVE Internacional Asia-Oceania,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/play/tve-internacional/
+TVEInternacionalEurope.es,TVE Internacional Europe,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/play/tve-internacional/
 TVEJABrasil.br,TV EJA Brasil,,,,BR,,FALSE,,,,
 TVEllef.nl,TV Ellef,,,,NL,,FALSE,,,,
 TVElqui.cl,TV Elqui,,,,CL,,FALSE,,,,https://tvelqui.cl/
@@ -31226,7 +31228,7 @@ TVM.be,TVM,TV Montignies,,,BE,,FALSE,2021-11-13,,,https://tvmontignies.com/
 TVM.cl,TVM,,,,CL,,FALSE,,,,https://canaltvm.cl/
 TVM.id,TVM,,,,ID,,FALSE,,,,
 TVM.mg,TVM,Télévision Malagasy;Televiziona Malagasy,,Office de la Radio et de la Télévision Publiques de Madagascar,MG,general,FALSE,1967-12-24,,,https://ortm.mg/
-TVM.mt,TVM,,,Government of Malta,MT,general,FALSE,1962-09-29,,,https://tvmi.mt/live/2
+TVM.mt,TVM,Television Malta,,Government of Malta,MT,general,FALSE,1962-09-29,,,https://tvmi.mt/live/2
 TVM.mz,TVM,,,,MZ,general,FALSE,1981-02-03,,,https://www.tvm.co.mz/
 TVM2.mg,TVM 2,Télévision Malagasy 2;Televiziona Malagasy 2,,Office de la Radio et de la Télévision Publiques de Madagascar,MG,news,FALSE,2025-07-28,,,https://ortm.mg/
 TVM2.mz,TVM 2,,,,MZ,,FALSE,,2017-04-07,TVMInternacional.mz,https://www.tvm.co.mz/
@@ -31335,7 +31337,7 @@ TVMost.rs,TV Most,ТВ Мост,,,RS,,FALSE,,,,https://tvmost.info/
 TVMparati.ve,TVM para ti,,,Corporación TVM PARA TI C.A.,VE,general,FALSE,2019-11-04,,,https://tvmparati.com.ve/
 TVMQuran.mv,TVM Qur'an,,,Public Service Media,MV,religious,FALSE,2023-03-29,,,
 TVMrezaMost.rs,TV Mreza Most,TV Mreža Most;ТВ Мост,,Velimir Bajatović;Nada Bajatović,RS,,FALSE,,,,http://www.tvmost.rs/
-TVMsportPlus.mt,TVMsport+,,,Government of Malta,MT,sports,FALSE,,,,https://tvmi.mt/live/4
+TVMsportPlus.mt,TVMsport+,,,Government of Malta,MT,sports,FALSE,2022-09-29,,,https://tvmi.mt/live/4
 TVMTelescola.mz,TVM Telescola,,,,MZ,,FALSE,,,,https://www.tvm.co.mz/
 TVMTelevizija.mk,TVM Televizija,Television Ohrid,,,MK,general,FALSE,,,,https://tvm.mk/
 TVMu.id,TV Mu,,,,ID,,FALSE,,,,http://tvmu.tv/
@@ -32458,8 +32460,10 @@ VC3TV.vc,VC3TV,,,,VC,culture,FALSE,,,,https://vc3.tv/
 VCALTV.vn,VCAL TV,,,,VN,news;culture,FALSE,,,,https://www.vcal.tv/
 VCAT.us,VCAT,,,,US,general,FALSE,,,,https://vcat.tv/
 VCCLagunadelSauceTV.uy,VCC Laguna del Sauce TV,,,,UY,general,FALSE,,,,
+VClassics.se,V Classics,,,Viaplay Group,SE,,FALSE,2026-01-01,,,http://www.tv1000.se/
 VClassicTV.cl,V Classic TV,,,,CL,music,FALSE,,,,https://www.radiocoquimbo.cl/
 VCOnline.cl,VC Online,,,,CL,,FALSE,,,,https://vencio.wixsite.com/vcmedios
+VCrime.se,V Crime,,,Viaplay Group,SE,,FALSE,2026-01-01,,,http://www.tv1000.se/
 VCV.in,VCV,,,,IN,general,FALSE,,,,
 VeaCanal.gt,Vea Canal,,,,GT,,FALSE,,,,http://www.veacanal.tv/
 VechernyayaMoskva.ru,Vechernyaya Moskva,Вечерняя Москва,,,RU,,FALSE,,,,https://vm.ru/
