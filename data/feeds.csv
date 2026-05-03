@@ -3540,6 +3540,7 @@ BigBrotherMzansi.za,SD,SD,,TRUE,c/ZA,Africa/Johannesburg,eng,576i
 BigCityTV.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 BIGCivicChannel.us,SD,SD,,TRUE,ct/USBMA,America/New_York,eng,480i
 BIGCommunityChannel.us,SD,SD,,TRUE,ct/USBMA,America/New_York,eng,480i
+BigGanga.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,bho,576i
 BigGangaTalkies.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 Biggs.pt,SD,SD,,TRUE,c/PT,Europe/Lisbon,por,576i
 BigiBetEPL.ng,SD,SD,,TRUE,c/NG,Africa/Lagos,eng,576i
@@ -3547,6 +3548,8 @@ BigiBetLaLiga.ng,SD,SD,,TRUE,c/NG,Africa/Lagos,eng,576i
 BigiBetLucky6.ng,SD,SD,,TRUE,c/NG,Africa/Lagos,eng,576i
 BigLifeTV.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 BigMagic.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
+BigMagicBiharJharkhand.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,bho,576i
+BigMagicGanga.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,bho,576i
 BigMagicPunjab.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,pan,576i
 BigPlanet.ru,HD,HD,,FALSE,c/RU,Europe/Moscow,rus,1080i
 BigPlanet.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
@@ -5061,6 +5064,7 @@ CanalPlusGul.se,Finland,Finland,,FALSE,c/FI,Europe/Helsinki,fin,576i
 CanalPlusGul.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusHaHa.fr,SD,SD,,TRUE,c/FR,Europe/Paris,mya,576i
 CanalPlusHaiti.ht,SD,SD,,TRUE,c/HT,America/Port-au-Prince,fra,480i
+CanalPlusHits.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusHockey.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusJumbo.et,SD,SD,,TRUE,c/ET,Africa/Addis_Ababa,amh,576i
 CanalPlusKids.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
@@ -5083,6 +5087,7 @@ CanalPlusPuTuTue.mm,SD,SD,,TRUE,c/FR,Asia/Yangon,mya,480i
 CanalPlusReunion.re,SD,SD,,TRUE,c/RE,Indian/Reunion,fra,576i
 CanalPlusSeriale.pl,SD,SD,,TRUE,c/PL,Europe/Warsaw,pol,576i
 CanalPlusSeries.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
+CanalPlusSeries.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusSeriesReunion.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 CanalPlusSport.et,SD,SD,,TRUE,c/ET,Africa/Addis_Ababa,amh,576i
 CanalPlusSport.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
@@ -20900,6 +20905,11 @@ MaxSport1.bg,SD,SD,,TRUE,c/BG,Europe/Sofia,bul,576i
 MaxSport2.bg,SD,SD,,TRUE,c/BG,Europe/Sofia,bul,576i
 MaxSport3.bg,SD,SD,,TRUE,c/BG,Europe/Sofia,bul,576i
 MaxSport4.bg,SD,SD,,TRUE,c/BG,Europe/Sofia,bul,576i
+MAXEats.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
+MAXKids.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
+MAXReels.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
+MAXSports.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
+MAXStreak.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
 MAXStream.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
 MaxTV.bz,SD,SD,,TRUE,c/BZ,America/Belize,eng,480i
 MaxTV.ch,SD,SD,,TRUE,c/CH,Europe/Zurich,fra,576i
@@ -30985,6 +30995,8 @@ SVTBarnSVT24.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SVTEuropa.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SVTTV1.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SVTTV2.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+SVTTV4.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+SVTTV6.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SVTWorld.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SwadeshNews.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 SwamijiTVAmerican.at,SD,SD,,TRUE,c/AT;c/US,Europe/Vienna,eng,576i
@@ -32699,6 +32711,7 @@ TopTV.si,SD,SD,,TRUE,c/SI,Europe/Ljubljana,slv,576i
 TopTV.tw,SD,SD,,TRUE,c/TW,Asia/Taipei,zho,480i
 TopTV.ug,SD,SD,,TRUE,c/UG,Africa/Kampala,eng,576i
 TOPTVMauritius.mu,SD,SD,,TRUE,c/MU,Indian/Mauritius,fra;mfe,576i
+TOPTVRivera.uy,SD,SD,,TRUE,c/UY,America/Montevideo,spa,576i
 TorgauTV.de,SD,SD,,TRUE,c/DE,Europe/Berlin,deu,576i
 TorococoTV.ve,SD,SD,,TRUE,c/VE,America/Caracas,spa,480i
 Toronto360TV.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
@@ -35769,6 +35782,7 @@ VinhPhucTV.vn,SD,SD,,TRUE,c/VN,Asia/Ho_Chi_Minh,vie,576i
 VinilosTV.pe,SD,SD,,TRUE,c/PE,America/Lima,spa,480i
 VintageMusic.cr,SD,SD,,TRUE,c/CR,America/Costa_Rica,spa,480i
 VinTV.es,SD,SD,,TRUE,c/ES,Europe/Madrid,spa,1080i
+VinTV.pt,HD,HD,,TRUE,c/PT,Europe/Lisbon,por,1080i
 VinxTV.es,SD,SD,,TRUE,s/ES-AS,Europe/Madrid,spa,576i
 VIOTV.sk,SD,SD,,TRUE,c/SK,Europe/Bratislava,slk,576i
 VIPNews.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
@@ -42312,6 +42326,8 @@ ZeeMagic.za,SD,SD,,TRUE,c/ZA;r/SSA,Africa/Johannesburg,fra,576i
 ZeeMalayalamNews.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,mal,576i
 ZeeMarathi.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,mar,1080p
 ZeeMarathi.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,mar,576i
+ZeeMGM.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng,576i
+ZeeMovies.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng,576i
 ZeeMundo.us,SD,SD,,TRUE,c/IN,Asia/Kolkata,spa,576i
 ZeeNepal.np,SD,SD,,TRUE,c/NP,Asia/Kathmandu,nep,576i
 ZeeNews.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,hin,1080i
