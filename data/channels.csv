@@ -3018,7 +3018,7 @@ BIGCivicChannel.us,BIG Civic Channel,Brookline Interactive Group Civic Channel,,
 BIGCommunityChannel.us,BIG Community Channel,Brookline Interactive Group Community Channel,,,US,general,FALSE,,,,https://brooklineinteractive.org/live/
 BigGanga.in,Big Ganga,,,Reliance Broadcast Network,IN,entertainment,FALSE,2016-01-01,2021-09-20,ZeeGanga.in,
 BigGangaTalkies.in,Big Ganga Talkies,,,,IN,,FALSE,,,,
-Biggs.pt,Biggs,,,NOS SGPS S.A.;AMC Networks Inc.,PT,kids,FALSE,2009-12-01,,,http://biggs.pt/
+Biggs.pt,Biggs,,,NOS SGPS S.A.;AMC Networks Inc.,PT,kids,FALSE,2009-12-01,2026-05-04,VinTV.pt,http://biggs.pt/
 BigiBetEPL.ng,BigiBet EPL,,,,NG,,FALSE,,,,https://www.bigibet.com/
 BigiBetLaLiga.ng,BigiBet LaLiga,,,,NG,sports,FALSE,,,,https://www.bigibet.com/
 BigiBetLucky6.ng,BigiBet Lucky 6,,,,NG,,FALSE,,,,https://www.bigibet.com/
@@ -4439,6 +4439,7 @@ CanalPlusAction.se,Canal+ Action,,,,SE,,FALSE,2007-11-01,2012-01-01,CMoreAction.
 CanalPlusActionCentre.fr,Canal+ Action Centre,,,Vivendi,FR,movies,FALSE,,,,https://www.canalplus.com/
 CanalPlusActionMyanmar.fr,Canal+ Action Myanmar,,,Vivendi,FR,movies,FALSE,,,,
 CanalPlusActionOuest.fr,Canal+ Action Ouest,,,Vivendi,FR,movies,FALSE,,,,https://www.canalplus.com/
+CanalPlusBla.se,Canal+ Bla,Canal+ Blå;Canal+ Sininen,,,SE,,FALSE,1999-01-01,2004-05-01,CanalPlusFilm2.se,
 CanalPlusBoxOffice.fr,Canal+ Box Office,,,Vivendi,FR,movies,FALSE,,,,https://www.canalplus.com/chaines/canal-plus-box-office/
 CanalPlusCaledonie.nc,Canal+ Caledonie,Canal+ Calédonie,,,NC,entertainment,FALSE,,,,http://www.canalplus-caledonie.com/
 CanalPlusCaraibes.fr,Canal+ Caraibes,Canal+ Caraïbes,,Vivendi,FR,entertainment,FALSE,,,,http://www.canalplus-caraibes.com/
@@ -4449,6 +4450,7 @@ CanalPlusCinemaCentre.fr,Canal+ Cinema Centre,Canal+ Cinéma Centre,,Vivendi,FR,
 CanalPlusCinemaOuest.fr,Canal+ Cinema Ouest,Canal+ Cinéma Ouest,,Vivendi,FR,movies,FALSE,1996-04-27,,,http://www.canalplus.fr/pid1748-c-cinema.html
 CanalPlusCinemaReunion.fr,Canal+ Cinema Reunion,Canal+ Cinéma Réunion,,Vivendi,FR,movies,FALSE,1996-04-27,,,http://www.canalplus.fr/pid1748-c-cinema.html
 CanalPlusCinemas.fr,Canal+ Cinemas,Canal+ Cinéma(s),,Vivendi,FR,movies,FALSE,1996-04-27,,,http://www.canalplus.fr/pid1748-c-cinema.html
+CanalPlusComedy.se,Canal+ Comedy,,,,SE,,FALSE,2007-11-01,2010-04-01,CanalPlusSeries.se,
 CanalPlusDecale.fr,Canal+ Decale,Canal+ Décalé,,Canal+ SA,FR,,FALSE,2005-03-05,2022-08-29,,https://www.canalplus.com/
 CanalPlusDikDik.et,Canal+ Dik Dik,,,Vivendi,ET,kids,FALSE,2021-04-12,2024-12-22,,https://www.canalplus-ethiopia.com/
 CanalPlusDiscover.et,Canal+ Discover,,,Vivendi,ET,documentary,FALSE,2021-04-12,2024-12-22,,https://www.canalplus-ethiopia.com/
@@ -4476,6 +4478,7 @@ CanalPlusFamilyOuest.fr,Canal+ Family Ouest,,,Vivendi,FR,family,FALSE,,,,https:/
 CanalPlusFilm.pl,Canal+ Film,,,Canal+ Group,PL,movies,FALSE,,,,https://tv.pl.canalplus.com/film/oferta-filmowa
 CanalPlusFilm.se,Canal+ Film,,,,SE,,FALSE,2005-09-01,2006-11-01,CanalPlusFilm1.se,
 CanalPlusFilm1.se,Canal+ Film 1,,,,SE,,FALSE,2006-11-01,2007-11-01,CanalPlusFirst.se,
+CanalPlusFilm2.se,Canal+ Film 2,,,,SE,,FALSE,2004-05-01,2007-11-01,CanalPlusHits.se,
 CanalPlusFilm3.se,Canal+ Film 3,,,,SE,,FALSE,2005-09-01,2007-11-01,CanalPlusAction.se,
 CanalPlusFirst.at,Canal+ First,,,,AT,,FALSE,,,,
 CanalPlusFirst.se,Canal+ First,,,,SE,,FALSE,2007-11-01,2012-01-01,CMoreFirst.se,
@@ -7122,11 +7125,11 @@ DengueleTV.ci,Denguele TV,Denguelé TV,,,CI,general,FALSE,,,,
 DenHaagTV.nl,Den Haag TV,,,,NL,general,FALSE,,,,https://www.denhaagfm.nl/
 DenizPostasiTV.tr,Deniz Postasi TV,Deniz Postası TV,,,TR,general,FALSE,,,,https://www.denizpostasi.com/
 DenPobedy.ru,Den Pobedy,День Победы,,,RU,,FALSE,,,,https://www.tricolor.tv/channels/den-pobedy/
-DensFoodChannel.id,Dens Food Channel,,,Digdaya Duta Digital,ID,cooking,FALSE,,,,http://dens.tv
-DensLearningKnowledge.id,Dens Learning & Knowledge,,,Digdaya Duta Digital,ID,education,FALSE,,,,http://dens.tv
-DensLifeStyle.id,Dens Life & Style,,,Digdaya Duta Digital,ID,lifestyle,FALSE,,,,http://dens.tv
-DensPlay.id,Dens Play,,,Digdaya Duta Digital,ID,lifestyle,FALSE,,,,http://dens.tv
-DensShowBiz.id,Dens ShowBiz,,,Digdaya Duta Digital,ID,entertainment,FALSE,,,,http://dens.tv
+DensFoodChannel.id,Dens Food Channel,,,Digdaya Duta Digital,ID,cooking,FALSE,,,,https://www.dens.tv/
+DensKnowledge.id,Dens Knowledge,Dens Learning & Knowledge,,Digdaya Duta Digital,ID,education,FALSE,,,,https://www.dens.tv/
+DensLifeStyle.id,Dens Life & Style,,,Digdaya Duta Digital,ID,lifestyle,FALSE,,,,https://www.dens.tv/
+DensPlay.id,Dens Play,,,Digdaya Duta Digital,ID,lifestyle,FALSE,,,,https://www.dens.tv/
+DensShowBiz.id,Dens ShowBiz,,,Digdaya Duta Digital,ID,entertainment,FALSE,,,,https://www.dens.tv/
 DentonTelevision.us,Denton Television,DTV,,,US,general;legislative,FALSE,,,,https://www.cityofdenton.com/633/Denton-Television
 Denver8TV.us,Denver 8 TV,,,,US,legislative,FALSE,,,,https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Marketing-Services/Denver-8-TV
 DepEdTV.ph,DepEd TV,,,Department of Education,PH,education,FALSE,2020-10-05,2022-06-30,,https://www.depedtv.com.ph/
@@ -7371,7 +7374,7 @@ DiscoveryKids.uk,Discovery Kids,,,Discovery Networks UK,UK,kids,FALSE,2000-02-01
 DiscoveryKidsLatinAmerica.us,Discovery Kids Latin America,Discovery Kids Brasil,,Warner Bros. Discovery Americas,US,kids,FALSE,1996-11-01,,,http://www.discoverykidsplus.com/
 DiscoveryKidsLive.br,Discovery Kids Live,,,Warner Bros. Discovery Inc.,BR,kids,FALSE,,,,http://www.discoverykids.com.br/
 DiscoveryKidsLiveLatinAmerica.br,Discovery Kids Live Latin America,,,Warner Bros. Discovery Inc.,BR,kids,FALSE,,,,http://www.discoverykids.com/
-DiscoveryLife.pl,Discovery Life,,TVN,Warner Bros. Discovery Inc.,PL,lifestyle,FALSE,2015-02-01,2017-01-16,DiscoveryLife.pl@HD,http://www.discoverylife.pl/
+DiscoveryLife.pl,Discovery Life,,TVN,Warner Bros. Discovery Inc.,PL,lifestyle,FALSE,2015-02-01,2017-01-16,,http://www.discoverylife.pl/
 DiscoveryLife.us,Discovery Life,,,Warner Bros. Discovery Inc.,US,lifestyle,FALSE,2011-02-01,,,https://www.discoverylife.com/
 DiscoveryPlusExtra1.se,Discovery+ Extra 1,,,Warner Bros. Discovery Inc.,SE,,FALSE,,,,https://www.discoveryplus.com/
 DiscoveryPlusExtra2.se,Discovery+ Extra 2,,,Warner Bros. Discovery Inc.,SE,,FALSE,,,,https://www.discoveryplus.com/
@@ -17377,6 +17380,7 @@ KUMVTV83.us,KUMV-TV 8.3,MeTV ND,Me-TV,Gray Television Licensee LLC,US,entertainm
 KUMYLD221.us,KUMY-LD 22.1,KUMY-TV,SSTN,Setx Public Television Corporation,US,,FALSE,,,,
 KUMYLD222.us,KUMY-LD 22.2,KUMY-TV,Retro TV,Setx Public Television Corporation,US,,FALSE,,,,
 KUNALP1.us,KUNA-LP1,,Telemundo,,US,,FALSE,,,,
+KungFuMovies.us,Kung Fu Movies,,,,US,movies,FALSE,,,,
 KUNP161.us,KUNP 16.1,Rip City TV Network;KUNP,Sports,Sinclair Lagrande Licensee LLC,US,general,FALSE,2001-12-03,,,http://www.kunptv.com/
 KUNP162.us,KUNP 16.2,TheNest,The Nest,Sinclair Lagrande Licensee LLC,US,entertainment,FALSE,,,,
 KUNP163.us,KUNP 16.3,Charge!,Charge!,Sinclair Lagrande Licensee LLC,US,entertainment,FALSE,,,,
@@ -19400,23 +19404,23 @@ MAX.no,MAX,,,Warner Bros Discovery,NO,entertainment,FALSE,2010-11-01,2024-03-19,
 Max2U.id,Max2U,,,,ID,entertainment,FALSE,,,,https://maxstream.tv/
 MAX4.hu,MAX4,,,,HU,movies,FALSE,,,,https://net4.network4.hu/
 MAXAnime.ve,MAX Anime,,,Grupo Lorini,VE,animation,FALSE,2023-12-21,,,https://esportsmax.tv/max-anime/
+MAXEats.id,MAX Eats,,IndiHome,Telkomsel Indonesia,ID,cooking,FALSE,,,,https://maxstream.tv/
 MaximaFM.cl,Maxima FM,,Maxima tv,,CL,music,FALSE,,,,https://maximachile.cl/
 MaximaFMChile.cl,Maxima FM Chile,,,,CL,music,FALSE,,,,https://maximachile.cl/
 MaximaTV.ar,Maxima TV,,,,AR,series,FALSE,,,,
 MaximaTV.ve,Maxima TV,Máxima TV,,,VE,entertainment,FALSE,,,,https://maximatv.net/
 MaxivisionCanal8.ec,Maxivision Canal 8,Maxivisión Canal 8,,,EC,general,FALSE,,,,
 MaxivisionTV.gt,Maxivision TV,Maxivisión TV,,,GT,entertainment,FALSE,,,,
+MAXKids.id,MAX Kids,IndiKids;Fun Planet,IndiHome,Telkomsel Indonesia,ID,kids,FALSE,2023-10-10,,,https://maxstream.tv/
 MaxLatino.us,MaxLatino,,,,US,,FALSE,,,,http://www.cinemax.com/
 MaxMovies.in,Max Movies,,Max,Max Group,IN,movies,FALSE,,,,https://maxtn.in/
 MaxMusic.in,Max Music,,Max,Max Group,IN,music,FALSE,,,,https://maxtn.in/
 MaxPlusTV.py,Max Plus TV,,,,PY,entertainment,FALSE,,,,
+MAXReels.id,MAX Reels,Usee Prime;AllPlay Ent,IndiHome,Telkomsel Indonesia,ID,movies,FALSE,,,,https://maxstream.tv/
 MaxSport1.bg,Max Sport 1,,,A1 Bulgaria,BG,sports,FALSE,2017-01-14,,,https://maxsport.live/
 MaxSport2.bg,Max Sport 2,,,A1 Bulgaria,BG,sports,FALSE,2017-03-01,,,https://maxsport.live/
 MaxSport3.bg,Max Sport 3,,,A1 Bulgaria,BG,sports,FALSE,2018-10-01,,,https://maxsport.live/
 MaxSport4.bg,Max Sport 4,,,A1 Bulgaria,BG,sports,FALSE,2019-01-15,,,https://maxsport.live/
-MAXEats.id,MAX Eats,,IndiHome,Telkomsel Indonesia,ID,cooking,FALSE,,,,https://maxstream.tv/
-MAXKids.id,MAX Kids,IndiKids;Fun Planet,IndiHome,Telkomsel Indonesia,ID,kids,FALSE,2023-10-10,,,https://maxstream.tv/
-MAXReels.id,MAX Reels,Usee Prime;AllPlay Ent,IndiHome,Telkomsel Indonesia,ID,movies,FALSE,,,,https://maxstream.tv/
 MAXSports.id,MAX Sports,Usee Sports;AllPlay Sports,IndiHome,Telkomsel Indonesia,ID,sports,FALSE,,,,https://maxstream.tv/
 MAXStreak.id,MAX Streak,,IndiHome,Telkomsel Indonesia,ID,entertainment,FALSE,,,,https://maxstream.tv/
 MAXStream.id,MAX Stream,MAX Stream TV,IndiHome,Telkomsel Indonesia,ID,general,FALSE,,,,https://maxstream.tv/
@@ -21389,6 +21393,9 @@ NewTM.th,New TM,,,,TH,,FALSE,,,,
 NewTV.kg,New TV,,,,KG,,FALSE,,,,http://newtv.kg/
 NewTV.md,New TV,,,GMG Production,MD,news,FALSE,,,,https://newtv.md/
 NewTV.pl,NewTV,Lubelska.tv,,,PL,general,FALSE,,,,https://www.newtv.com.pl/
+NewTVComprehensive.id,New TV Comprehensive,,IndiHome,China Internet TV,ID,entertainment;series,FALSE,,,,https://maxstream.tv/
+NewTVFinance.id,New TV Finance,,IndiHome,China Internet TV,ID,entertainment;series,FALSE,,,,https://maxstream.tv/
+NewTVVariety.id,New TV Variety,,IndiHome,China Internet TV,ID,entertainment;series,FALSE,,,,https://maxstream.tv/
 NewVision.uk,New Vision,New Vision TV,,New Vision TV Ltd,UK,news,FALSE,,,,https://www.skymedia.co.uk/channels/new-vision/
 NewVisionTV.lb,New Vision TV,,,,LB,religious,FALSE,,,,https://www.newvision.tv/
 NewVisionTV.ng,New Vision TV,,,,NG,religious,FALSE,,,,https://crichurch.org/
@@ -22291,7 +22298,7 @@ OKanal.ba,O Kanal,TV1,,Media group Oslobodjenje,BA,general,FALSE,2010-08-26,,,ht
 OKanalPlus.ba,O Kanal Plus,,,Media group Oslobodjenje,BA,general,FALSE,,,,https://okanal.oslobodjenje.ba/
 OKDessau.de,OK Dessau,,,,DE,general,FALSE,,,,https://www.ok-dessau.de/startseite
 Okey.my,Okey,,,Radio Televisyen Malaysia,MY,general,FALSE,2000-02-01,,,https://okey.rtm.gov.my/
-OkezoneTV.id,Okezone TV,MNC Lifestyle;Lifestyle & Fashion,,,ID,lifestyle,FALSE,,,OkezoneTV.id,https://tv.okezone.com/
+OkezoneTV.id,Okezone TV,MNC Lifestyle;Lifestyle & Fashion,,,ID,lifestyle,FALSE,,,,https://tv.okezone.com/
 OKFlensburg.de,OK Flensburg,,,,DE,general,FALSE,,,,
 OKFulda.de,OK Fulda,,,,DE,general,FALSE,,,,https://www.medienanstalt-hessen.de/medienprojektzentren-offener-kanal/fulda/
 OKGiessen.de,OK Giessen,OK Gießen,,,DE,general,FALSE,,,,
@@ -23820,6 +23827,7 @@ PraiseTV.gh,Praise TV,,,,GH,religious,FALSE,,,,
 PraiseTV.ng,Praise TV,,,,NG,,FALSE,,,,
 PraiseTV.pk,Praise TV,,,,PK,,FALSE,,,,https://praisetvpakistan.tv/
 PrajaaTVKannada.in,Prajaa TV Kannada,,,,IN,news,FALSE,,,,
+Prambors.id,Prambors,,IndiHome,Masima Radio Network,ID,music,FALSE,,,,https://www.pramborsfm.com/
 PrameyaNews7.in,Prameya News7,,,,IN,news,FALSE,,,,http://www.prameyanews7.com/
 PrarthanaBhawanTV.in,Prarthana Bhawan TV,,,,IN,,FALSE,,,,http://www.prarthanabhawantv.com/
 PrarthanaTV.in,Prarthana TV,,,,IN,,FALSE,2010-04-14,,,https://www.tarangplus.in/all-channels/prarthana-tv
@@ -29736,6 +29744,7 @@ TiJi.ru,TiJi,,,,RU,kids,FALSE,2009-04-01,,,https://tiji.ru/
 TIKBohumin.cz,TIK Bohumin,TIK Bohumín,,,CZ,general,FALSE,,,,https://tik.tvmarko.cz/
 TikiVision.bo,Tiki Vision,Tiki Visión,,,BO,entertainment,FALSE,,,,
 TIKTAK.rs,TIKTAK,Muzzik TIKTAK,,,RS,music,FALSE,,,,https://www.muzzik.tv/
+TikTokRadioBrasil.br,TikTok Radio Brasil,,,Stingray Group Inc.,BR,music,FALSE,2025-08-11,,,https://pluto.tv/live-tv/tiktok-radio-brasil
 TileFOS.gr,TileFOS,ΤηλεΦΩΣ,,Tilefos - Nea Zoi S.A.,GR,outdoor,FALSE,1994-01-01,2010-09-06,KontraChannel.gr,
 Tilemousiki.gr,Tilemousiki,,,,GR,,FALSE,,,,
 TimeChannel.gr,Time Channel,,,Radiotelevision Time Channel S.A.,GR,shop,FALSE,1991-01-01,2023-10-01,,
@@ -29835,6 +29844,7 @@ TlnovelasEuropa.mx,Tlnovelas Europa,,Televisa Networks,,MX,series,FALSE,,,,https
 TlnovelasLatinAmerica.mx,Tlnovelas Latin America,,Televisa Networks,,MX,series,FALSE,,,,https://www.televisa.com/tlnovelas
 TlnovelasMexico.mx,Tlnovelas Mexico,,Televisa Networks,,MX,series,FALSE,1997-09-15,,,https://www.televisa.com/tlnovelas
 TLNTeleLazioNord.it,TLN Tele Lazio Nord,,,,IT,,FALSE,,,,
+TLPlus.sv,TL+,,Grupo TL+,Jacqueline,SV,animation;series;entertainment,FALSE,2024-11-04,,,https://tlmas.elektamedia.com/
 TLSAfrica.tg,TLS Africa,,,,TG,,FALSE,,,,
 TLTMolise.it,TLT Molise,,,,IT,general,FALSE,,,,https://www.tltmolise.it/
 TLUM.ru,TLUM,ТЛУМ,,VGTRK,RU,kids,FALSE,2016-04-22,2019-12-01,Mult.ru@HD,https://tlum.ru/
@@ -30093,6 +30103,7 @@ TraceMziki.fr,Trace Mziki,,,,FR,music,FALSE,,,,https://trace.tv/trace-mziki/
 TraceNaija.fr,Trace Naija,,,,FR,music,FALSE,,,,http://trace.tv/trace-naija/
 TraceSportStars.fr,Trace Sport Stars,,,,FR,sports,FALSE,2011-06-01,,,http://www.trace.tv/fr/tv/sport
 TraceToca.fr,Trace Toca,,,,FR,music,FALSE,2014-07-22,,,https://fr.trace.tv/trace-toca/
+TraceUK.uk,Trace UK,,,Trace Plus Inc,UK,music,FALSE,,,,https://trace.plus/app
 TraceUrban.fr,Trace Urban,Trace TV,,TPG Capital Trace Partners,FR,music,FALSE,2010-12-15,,,https://fr.trace.tv/trace-urban/
 TraceVanillaIslands.fr,Trace Vanilla Islands,,,,FR,music,FALSE,,,,https://trace.company/activities/television/trace-vanillaislands/
 TraceVault.uk,Trace Vault,,,,UK,music,FALSE,2003-03-12,,,https://trace.tv/uk/
@@ -30178,6 +30189,8 @@ TringSport2.al,Tring Sport 2,,,,AL,sports,FALSE,,,,http://www.tring.al/
 TringSport3.al,Tring Sport 3,,,,AL,sports,FALSE,,,,http://www.tring.al/
 TringSport4.al,Tring Sport 4,,,,AL,sports,FALSE,,,,http://www.tring.al/
 TringSport5.al,Tring Sport 5,,,,AL,sports,FALSE,,,,http://www.tring.al/
+TringSport6.al,Tring Sport 6,,,,AL,sports,FALSE,,,,https://tring.al/channel/tring-sport-6/
+TringSport7.al,Tring Sport 7,,,,AL,sports,FALSE,,,,https://tring.al/
 TringSportNews.al,Tring Sport News,,,,AL,sports,FALSE,,,,http://www.tring.al/
 TringSuper.al,Tring Super,,,,AL,movies,FALSE,,,,http://www.tring.al/
 TringTring.al,Tring Tring,,,,AL,kids,FALSE,,,,http://www.tring.al/
@@ -30481,7 +30494,7 @@ TV2.hu,TV2,,,TV2 Média Csoport Kft.,HU,,FALSE,1997-10-04,,,https://tv2play.hu/
 TV2.mn,TV2,,,,MN,,FALSE,,,,http://www.tv2.mn/
 TV2.my,TV2,,,,MY,,FALSE,,,,
 TV2.tg,TV 2,,,,TG,general,FALSE,2001-06-01,,,https://tv2tg.tv/
-tv2.tr,tv2,Teve2,,Demirören Group,TR,,FALSE,,,tv2.tr,https://www.tv2.com.tr/
+tv2.tr,tv2,Teve2,,Demirören Group,TR,,FALSE,,,,https://www.tv2.com.tr/
 TV20.us,TV20,,,,US,general,FALSE,,,,https://www.clevelandohio.gov/CityofCleveland/Home/Government/MayorsOffice/tv20/watch
 TV2000.it,TV2000,SAT2000,,CEI,IT,religious,FALSE,1998-01-01,,,https://www.tv2000.it/
 TV2020.cy,TV 2020,,,,CY,,FALSE,,,,https://www.diyaloggazetesi.com/
@@ -38409,7 +38422,7 @@ WVVA65.us,WVVA 6.5,Start,Start TV,Gray Television Licensee LLC,US,,FALSE,,,,
 WVVCLD401.us,WVVC-LD 40.1,WVVC-AN,Antenna TV,Northeast Gospel Broadcasting Inc.,US,,FALSE,,,,
 WVVCLD402.us,WVVC-LD 40.2,WVVC-WA,The Walk TV,Northeast Gospel Broadcasting Inc.,US,,FALSE,,,,
 WVVCLD403.us,WVVC-LD 40.3,WVVC-HT,Heartland,Northeast Gospel Broadcasting Inc.,US,,FALSE,,,,
-WVXF171.vi,WVXF 17.1,,COZI TV,Lilly Broadcasting Ventures LLC,VI,entertainment,FALSE,1999-07-01,,,http://www.wvxftv.com
+WVXF171.vi,WVXF 17.1,Cozi TV Caribbean,COZI TV,Lilly Broadcasting Ventures LLC,VI,entertainment,FALSE,1999-07-01,,,http://www.wvxftv.com
 WVXF172.vi,WVXF 17.2,,FOX,Lilly Broadcasting Ventures LLC,VI,general,FALSE,,,,http://www.foxtvusvi.com/
 WWAY31.us,WWAY 3.1,NewsChannel 3;WWAYABC,ABC,WWAY-TV LLC,US,news,FALSE,,,,http://www.wwaytv3.com/
 WWAY32.us,WWAY 3.2,WWAYCBS,CBS,WWAY-TV LLC,US,,FALSE,,,,

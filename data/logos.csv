@@ -3576,6 +3576,7 @@ BrionnaisTV.fr,,TRUE,,512,384,JPEG,https://i.imgur.com/y94bhqX.jpg
 BrioTV.in,,TRUE,,376,288,PNG,https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png
 BrioTV.in,,TRUE,,200,150,PNG,https://www.lyngsat.com/logo/tv/bb/brio-tv-in.png
 BrisaTV.ec,,TRUE,,225,225,PNG,https://i.imgur.com/WN1MQEx.png
+BritAsiaTV.uk,HD,FALSE,,275,170,GIF,https://britasia.tv/wp-content/uploads/2023/11/batv-all-in-one.gif
 BritAsiaTV.uk,,TRUE,,210,168,PNG,https://i.imgur.com/ULm80XF.png
 BritAsiaTV.uk,,TRUE,,376,288,PNG,https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png
 BritAsiaTV.uk,,TRUE,,79,64,PNG,https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669894cbac4421ebc5336a0/images/logo_20231219_185045_64.png
@@ -4625,6 +4626,8 @@ CanalPlusAction.se,,FALSE,,797,100,PNG,https://i.imgur.com/4CYBGRi.png
 CanalPlusActionCentre.fr,,TRUE,,225,121,PNG,https://i.imgur.com/BBkdBFM.png
 CanalPlusActionMyanmar.fr,,TRUE,,508,204,PNG,https://i.imgur.com/jVv8m9x.png
 CanalPlusActionOuest.fr,,TRUE,,225,121,PNG,https://i.imgur.com/WM7wBOw.png
+CanalPlusBla.se,Finland,FALSE,,800,100,PNG,https://i.imgur.com/5dw6ixE.png
+CanalPlusBla.se,,FALSE,,586,100,PNG,https://i.imgur.com/W1UaUFe.png
 CanalPlusBoxOffice.fr,,TRUE,,200,80,PNG,https://i.imgur.com/RPZFpcH.png
 CanalPlusCaledonie.nc,,TRUE,,132,64,PNG,https://i.imgur.com/ENI1Llz.png
 CanalPlusCaraibes.fr,,TRUE,,284,71,PNG,https://i.imgur.com/1CWs7Hg.png
@@ -4635,6 +4638,7 @@ CanalPlusCinemaCentre.fr,,TRUE,,252,129,PNG,https://i.imgur.com/esdtovD.png
 CanalPlusCinemaOuest.fr,,TRUE,,252,129,PNG,https://i.imgur.com/TJPGm5Y.png
 CanalPlusCinemaReunion.fr,,TRUE,,249,113,PNG,https://i.imgur.com/TSm9gAX.png
 CanalPlusCinemas.fr,,TRUE,,320,242,JPEG,https://i.imgur.com/fvPoNEa.jpeg
+CanalPlusComedy.se,,FALSE,,797,100,PNG,https://i.imgur.com/ozXTSfA.png
 CanalPlusDecale.fr,,TRUE,,512,233,PNG,https://i.imgur.com/nNyNFEG.png
 CanalPlusDikDik.et,,TRUE,,98,74,PNG,https://i.imgur.com/CB0hUFi.png
 CanalPlusDiscover.et,,TRUE,,98,74,PNG,https://i.imgur.com/uyHbtjz.png
@@ -4662,6 +4666,7 @@ CanalPlusFamilyOuest.fr,,TRUE,,252,128,PNG,https://i.imgur.com/U53pC71.png
 CanalPlusFilm.pl,,TRUE,,512,237,PNG,https://i.imgur.com/2yMtcJw.png
 CanalPlusFilm.se,,FALSE,,612,100,PNG,https://i.imgur.com/HAnNLxR.png
 CanalPlusFilm1.se,,TRUE,,800,100,PNG,https://i.imgur.com/P89Lvxk.png
+CanalPlusFilm2.se,,FALSE,,800,100,PNG,https://i.imgur.com/eUlsEj0.png
 CanalPlusFilm3.se,,FALSE,,800,100,PNG,https://i.imgur.com/4HgsvSb.png
 CanalPlusFirst.at,,TRUE,,512,227,PNG,https://i.imgur.com/3JJPqVs.png
 CanalPlusFirst.se,HD,FALSE,,800,100,PNG,https://i.imgur.com/tpEHnjT.png
@@ -4676,6 +4681,7 @@ CanalPlusGul.se,Finland,FALSE,,676,100,PNG,https://i.imgur.com/z2mA8ac.png
 CanalPlusGul.se,,FALSE,,579,100,PNG,https://i.imgur.com/beyT9D2.png
 CanalPlusHaHa.fr,,TRUE,,470,189,PNG,https://i.imgur.com/OvDWAqw.png
 CanalPlusHaiti.ht,,TRUE,,258,114,PNG,https://i.imgur.com/Gad5qrd.png
+CanalPlusHits.se,HD,FALSE,,800,100,PNG,https://i.imgur.com/yZfUHJN.png
 CanalPlusHits.se,,FALSE,,797,100,PNG,https://i.imgur.com/ack28Pb.png
 CanalPlusHockey.se,,FALSE,,500,63,PNG,https://i.imgur.com/XpDFI5D.png
 CanalPlusJumbo.et,,TRUE,,98,74,PNG,https://i.imgur.com/xOSS8eX.png
@@ -7603,6 +7609,11 @@ DengueleTV.ci,,TRUE,,512,500,JPEG,https://i.imgur.com/z5TtjUG.jpeg
 DenHaagTV.nl,,TRUE,,768,768,JPEG,https://i.imgur.com/gkzlRED.jpg
 DenizPostasiTV.tr,,TRUE,,306,440,PNG,https://i.imgur.com/Mm8hdfx.png
 DenPobedy.ru,,TRUE,,74,44,PNG,https://i.imgur.com/gY3XkoO.png
+DensFoodChannel.id,,TRUE,,340,160,JPEG,https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg
+DensKnowledge.id,,TRUE,,340,160,JPEG,https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg
+DensLifeStyle.id,,TRUE,,340,160,JPEG,https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg
+DensPlay.id,,TRUE,,340,160,JPEG,https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg
+DensShowBiz.id,,TRUE,,340,160,JPEG,https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg
 DentonTelevision.us,,TRUE,,271,130,PNG,https://i.imgur.com/RYfUDfL.png
 Denver8TV.us,,TRUE,,134,168,PNG,https://i.imgur.com/wMIy5jb.png
 DepEdTV.ph,,TRUE,,512,611,PNG,https://i.imgur.com/3BiY6mI.png
@@ -8036,7 +8047,7 @@ DMC.eg,,TRUE,,339,343,PNG,https://i.imgur.com/iy70Xxr.png
 DMCDrama.eg,,TRUE,,421,230,PNG,https://i.imgur.com/OOXylJI.png
 DMCTelevizija.hr,,TRUE,,162,75,PNG,https://i.imgur.com/gUPF7Rc.png
 DMF.de,,TRUE,,512,156,JPEG,https://i.imgur.com/sJaBU7X.jpeg
-DMITV.id,,TRUE,,150,48,PNG,https://i.postimg.cc/VvVgb6dN/logo-tawaf.png
+DMITV.id,,TRUE,,640,225,PNG,https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png
 DMJ.pe,,TRUE,,160,160,PNG,https://i.imgur.com/KSePPeW.png
 DMNews.uk,,TRUE,,3705,3830,PNG,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1189.png
 DMovies.np,,TRUE,,128,65,PNG,https://i.imgur.com/h66ZzBx.png
@@ -9849,6 +9860,7 @@ FlixFling.us,,TRUE,,249,250,PNG,https://i.imgur.com/1VZ809y.png
 FlixSnip.ru,,TRUE,,512,144,PNG,https://i.imgur.com/UVKX2rd.png
 FloHockey.us,,TRUE,,546,348,PNG,https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png
 Flooxer.es,,TRUE,,512,124,PNG,https://i.imgur.com/FDKwbBd.png
+FloRacing.us,HD,TRUE,white;transparency,547,348,PNG,https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png
 FloRacing.us,,TRUE,,216,24,PNG,https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png
 FlorissantCityTV.us,,TRUE,,74,68,PNG,https://i.imgur.com/3N63TNU.png
 FlouCine.us,,TRUE,,510,233,PNG,https://i.imgur.com/OM6BP37.png
@@ -18085,6 +18097,7 @@ KUMVTV83.us,,TRUE,,960,306,PNG,https://upload.wikimedia.org/wikipedia/en/thumb/5
 KUMYLD221.us,,TRUE,,205,100,PNG,https://i.imgur.com/dB1Vl92.png
 KUMYLD222.us,,TRUE,,160,62,PNG,https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png
 KUNALP1.us,,TRUE,,960,812,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png
+KungFuMovies.us,,TRUE,,1080,788,PNG,https://electricnowdspmedia.cachefly.net/images/6984781fb7a7545d6d00b7bc
 KUNP161.us,,TRUE,,960,795,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png
 KUNP162.us,,TRUE,,960,330,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/960px-TBD_Logo_2019.svg.png
 KUNP163.us,,TRUE,,960,253,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/960px-Charge%21_Logo_2020.svg.png
@@ -20092,23 +20105,23 @@ MAX.no,,TRUE,,471,232,PNG,https://i.imgur.com/ASWU0FE.png
 Max2U.id,,TRUE,,104,56,PNG,https://i.imgur.com/eU4aqWy.png
 MAX4.hu,,TRUE,,960,540,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png
 MAXAnime.ve,,TRUE,,512,287,JPEG,https://i.imgur.com/Oj3hEBh.jpg
+MAXEats.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp
 MaximaFM.cl,,TRUE,,150,150,PNG,https://i.imgur.com/9sDShTm.png
 MaximaFMChile.cl,,TRUE,,441,375,PNG,https://i.imgur.com/PZG40Hg.png
 MaximaTV.ar,,TRUE,,511,185,JPEG,https://i.ibb.co/NmwTVkX/Screenshot-20230715-163842.jpg
 MaximaTV.ve,,TRUE,,512,512,JPEG,https://i.imgur.com/HMZRVL5.jpeg
 MaxivisionCanal8.ec,,TRUE,,447,219,JPEG,https://i.imgur.com/rlFAtnO.jpeg
 MaxivisionTV.gt,,TRUE,,511,512,JPEG,https://i.imgur.com/UC8WrEN.jpg
+MAXKids.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp
 MaxLatino.us,,TRUE,,248,220,PNG,https://i.imgur.com/GfsmfGK.png
 MaxMovies.in,,TRUE,,500,300,JPEG,https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg
 MaxMusic.in,,TRUE,,588,278,JPEG,https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg
 MaxPlusTV.py,,TRUE,,512,512,PNG,https://i.imgur.com/0iHpI5t.png
+MAXReels.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp
 MaxSport1.bg,,TRUE,,512,75,PNG,https://i.imgur.com/0ohnpql.png
 MaxSport2.bg,,TRUE,,512,75,PNG,https://i.imgur.com/33m1wPN.png
 MaxSport3.bg,,TRUE,,512,75,PNG,https://i.imgur.com/eGiGgZ2.png
 MaxSport4.bg,,TRUE,,512,75,PNG,https://i.imgur.com/7IxXX6f.png
-MAXEats.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp
-MAXKids.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp
-MAXReels.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp
 MAXSports.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp
 MAXStreak.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp
 MAXStream.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/landscape_carousel_xxhdpi.webp
@@ -22311,6 +22324,9 @@ NewTM.th,,TRUE,,82,98,PNG,https://i.imgur.com/BYEtAN5.png
 NewTV.kg,,TRUE,,128,38,PNG,https://i.imgur.com/vU5Yt5A.png
 NewTV.md,,TRUE,,253,56,PNG,https://i.imgur.com/HKIzJtY.png
 NewTV.pl,,TRUE,,500,417,PNG,https://i.imgur.com/fH8rKs3.png
+NewTVComprehensive.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp
+NewTVFinance.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp
+NewTVVariety.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp
 NewVision.uk,,TRUE,,88,104,PNG,https://i.imgur.com/D6u3ThD.png
 NewVisionTV.lb,,TRUE,,78,96,PNG,https://i.imgur.com/lZqJUjp.png
 NewVisionTV.ng,,TRUE,,0,0,PNG,https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png
@@ -24797,6 +24813,7 @@ PraiseTV.gh,,TRUE,,339,149,JPEG,https://i.imgur.com/i0hPb1s.jpeg
 PraiseTV.ng,,TRUE,,118,81,PNG,https://i.imgur.com/53ulHrJ.png
 PraiseTV.pk,,TRUE,,132,56,PNG,https://i.imgur.com/T9fIdLs.png
 PrajaaTVKannada.in,,TRUE,,127,80,PNG,https://i.imgur.com/QQnI8D1.png
+Prambors.id,,TRUE,,672,378,WebP,https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_xxhdpi.webp
 PrameyaNews7.in,,TRUE,,720,540,PNG,https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540
 PrameyaNews7.in,,TRUE,,327,90,PNG,https://i.imgur.com/zTgkqdS.png
 PrameyaNews7.in,,TRUE,,376,288,PNG,https://jiotvimages.cdn.jio.com/dare_images/images/Prameya_News_7.png
@@ -25386,8 +25403,8 @@ RadioBrunoTV.it,,TRUE,,229,143,PNG,https://i.imgur.com/WBcwDb7.png
 RadioCaazapaPoty981FM.py,,TRUE,,512,505,JPEG,https://i.imgur.com/vK0y9xk.jpg
 RadioCalor.pe,,TRUE,,320,320,PNG,https://i.imgur.com/hO3k8sz.png
 Radiocanal.ar,,TRUE,,225,225,PNG,https://i.ibb.co/NNyDWsz/download-8.png
+RadioCapitalTiVu.it,HD,TRUE,,1465,500,SVG,https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg
 RadioCapitalTiVu.it,,TRUE,,0,0,PNG,https://www.lyngsat.com/logo/tv/rr/radio-capital-tivu-it.png
-RadioCapitalTiVu.it,SD,TRUE,,1465,500,SVG,https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg
 RadioCapitalTV.it,,TRUE,,288,175,PNG,https://i.imgur.com/0bv1gID.png
 RadioCaracasRadio.ve,,TRUE,,197,93,PNG,https://i.imgur.com/QaKbK6w.png
 RadioCarnavalTV.es,,TRUE,,297,170,PNG,https://i.imgur.com/cdpbkSo.png
@@ -31032,6 +31049,7 @@ ThanthiTV.in,,TRUE,,0,0,PNG,https://xstreamcp-assets-msp.streamready.in/assets/L
 ThaqalaynTV.tr,,TRUE,,322,512,PNG,https://i.imgur.com/u02FSgI.png
 Thats20thCentury.uk,,TRUE,,160,90,PNG,https://img.freeviewplay.tv/s5fd3bc5bd1d0810ff93c008f3edbc31c?w=160
 Thats60s.uk,,TRUE,,161,81,PNG,https://i.imgur.com/kLLgU4N.png
+Thats70s.uk,HD,TRUE,,1422,1209,WebP,https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png
 Thats70s.uk,,TRUE,,512,435,PNG,https://i.imgur.com/j2q53JQ.png
 Thats80s.uk,,TRUE,,161,81,PNG,https://i.imgur.com/TdKuz1m.png
 Thats90s.uk,,TRUE,,161,81,PNG,https://i.imgur.com/6mwtpRD.png
@@ -31231,6 +31249,7 @@ TiJi.ru,,TRUE,,512,373,PNG,https://i.imgur.com/QCOUJ30.png
 TIKBohumin.cz,,TRUE,,256,256,PNG,https://i.imgur.com/OVaS0nn.png
 TikiVision.bo,,TRUE,,447,447,PNG,https://i.imgur.com/wjIXdgd.png
 TIKTAK.rs,,TRUE,,512,172,PNG,https://i.imgur.com/9dz8MsD.png
+TikTokRadioBrasil.br,,TRUE,,494,179,SVG,https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg
 TileFOS.gr,,TRUE,,333,162,PNG,https://i.imgur.com/mCaSiBk.png
 Tilemousiki.gr,,TRUE,,361,362,JPEG,https://i.imgur.com/wb4pLkW.jpg
 TimeChannel.gr,,TRUE,,512,222,PNG,https://i.imgur.com/SZaloKw.png
@@ -31353,6 +31372,7 @@ TlnovelasEuropa.mx,,TRUE,,147,125,PNG,https://i.imgur.com/8AKW7Uu.png
 TlnovelasLatinAmerica.mx,,TRUE,,147,125,PNG,https://i.imgur.com/Rvm38Mu.png
 TlnovelasMexico.mx,,TRUE,,150,125,PNG,https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png
 TLNTeleLazioNord.it,,TRUE,,498,512,PNG,https://i.imgur.com/6nos3T6.png
+TLPlus.sv,,TRUE,,936,807,PNG,https://tlmas.elektamedia.com/assets/imgs/logo.png
 TLSAfrica.tg,,TRUE,,225,86,PNG,https://i.imgur.com/5qlDTp5.png
 TLTMolise.it,,TRUE,,512,376,PNG,https://i.imgur.com/4G8fqtn.png
 TLUM.ru,,TRUE,,512,137,PNG,https://i.imgur.com/jiQIlXz.png
@@ -31603,6 +31623,7 @@ TrabzonBuyuksehirBelediyesiTV.tr,,TRUE,,1000,596,PNG,https://tbbweb.tv/img/logo.
 TraceAfrica.fr,,TRUE,,512,242,PNG,https://i.imgur.com/kPUkoS7.png
 TraceAfrikora.fr,,TRUE,,512,244,PNG,https://i.imgur.com/CQDdnhp.png
 TraceAyiti.fr,,TRUE,,512,240,PNG,https://i.imgur.com/KkJ6fet.png
+TraceBrazuca.fr,HD,TRUE,,224,153,PNG,https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG
 TraceBrazuca.fr,,TRUE,,1000,478,PNG,https://i.imgur.com/DFBocPu.png
 TraceBrazuca.fr,,TRUE,,146,68,PNG,https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893fbac4421ebc533690/images/logo_20231219_223457_68.png
 TraceCaribbean.fr,,TRUE,,512,246,PNG,https://i.imgur.com/ZHD7Vxy.png
@@ -31620,6 +31641,7 @@ TraceMziki.fr,,TRUE,,512,242,PNG,https://i.imgur.com/l3X9Gg4.png
 TraceNaija.fr,,TRUE,,512,242,PNG,https://i.imgur.com/Rguekcp.png
 TraceSportStars.fr,,TRUE,,512,246,PNG,https://i.imgur.com/FabFP5A.png
 TraceToca.fr,,TRUE,,512,239,PNG,https://i.imgur.com/6SpWnBR.png
+TraceUK.uk,,TRUE,,100,70,PNG,https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png
 TraceUrban.fr,,TRUE,,512,355,PNG,https://i.imgur.com/DLIbUMx.png
 TraceUrban.fr,,TRUE,,146,68,PNG,https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png
 TraceVanillaIslands.fr,,TRUE,,512,229,PNG,https://i.imgur.com/ngF58fe.png
@@ -31707,10 +31729,17 @@ TringLife.al,,TRUE,,261,75,WebP,https://cdn-0.tvprofil.com/cdn/300x75/4/img/kana
 TringNovelas.al,,TRUE,,300,68,WebP,https://cdn-0.tvprofil.com/cdn/300x75/4/img/kanali-logo/Tring_Novelas_AL_logo_v3.png
 TringPlanet.al,,TRUE,,100,30,PNG,https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringPlanet.png
 TringShqip.al,,TRUE,,168,47,PNG,https://tvprofil.com/img/kanali-logo/Tring_Shqip_AL_logo.png
+TringSport1.al,HD,TRUE,,100,16,SVG,https://tring.al/wp-content/uploads/2022/06/Sport-1_dark.svg
 TringSport1.al,,TRUE,,231,36,PNG,https://i.imgur.com/u5MxGbS.png
+TringSport2.al,HD,TRUE,,100,16,SVG,https://tring.al/wp-content/uploads/2022/06/Sport-2_dark.svg
 TringSport2.al,,TRUE,,100,31,PNG,https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_2_HD_AL_logo.png
+TringSport3.al,HD,TRUE,,100,16,SVG,https://tring.al/wp-content/uploads/2022/06/Sport-3_dark.svg
 TringSport3.al,,TRUE,,100,31,PNG,https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_3_HD_AL_logo.png
+TringSport4.al,HD,TRUE,,100,16,SVG,https://tring.al/wp-content/uploads/2022/06/Sport-4_dark.svg
 TringSport4.al,,TRUE,,100,31,PNG,https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_4_HD_AL_logo.png
+TringSport5.al,HD,TRUE,,120,20,PNG,https://tring.al/wp-content/uploads/2024/06/sport5.png
+TringSport6.al,,TRUE,,858,138,SVG,https://tring.al/wp-content/uploads/2025/07/Sport-6-Logo.svg
+TringSport7.al,,TRUE,,503,83,PNG,https://i.imgur.com/ZWh7YcI.png
 TringSportNews.al,,TRUE,,100,31,PNG,https://tvprofil.com/cdn/100x40/4/img/kanali-logo/Sport_News_HD_AL_logo.png
 TringSuper.al,,TRUE,,100,28,PNG,https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Super_AL_logo.png
 TringTring.al,,TRUE,,474,249,PNG,https://i.imgur.com/VrXyMt5.png
@@ -33327,6 +33356,7 @@ TVRioPlus.uy,,TRUE,,512,178,PNG,https://i.imgur.com/W30CWj2.png
 TVRioPreto.br,,TRUE,,512,367,PNG,https://i.imgur.com/9EqSKLc.png
 TVRioSul.br,,TRUE,,168,108,PNG,https://i.imgur.com/VA2MOK0.png
 TVRipolles.es,,TRUE,,482,487,PNG,https://i.imgur.com/S5KB9DS.png
+TVRISport.id,,TRUE,,960,250,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png
 TVRitam.rs,,TRUE,,164,130,PNG,https://i.imgur.com/VXVTy8p.png
 TVRivera.co,,TRUE,,440,101,PNG,https://i.imgur.com/BmwZNWm.png
 TVRIWorld.id,,TRUE,,960,236,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png
