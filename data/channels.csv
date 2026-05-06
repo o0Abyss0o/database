@@ -3699,7 +3699,7 @@ CampinaSurTV.es,Campina Sur TV,Campiña Sur TV,,,ES,,FALSE,,,,
 Campo9Online.py,Campo 9 Online,,,,PY,general,FALSE,,,,
 CampoAbiertoTV.cl,Campo Abierto TV,,,,CL,,FALSE,,,,http://campoabierto.cl/home/senal-en-vivo/
 CampoPequenoTV.pt,Campo Pequeno TV,,,,PT,sports,FALSE,,,,https://www.campopequeno.com/campopequenotv/
-CampoRuralTV.uy,Campo Rural TV,,,,UY,outdoor,FALSE,2021-09-15,,,https://camporural.tv/
+CampoRuralTV.uy,Campo Rural TV,,,Fernando Marguery,UY,outdoor,FALSE,2021-09-15,,,https://camporural.tv/
 CampoTelevision.co,Campo Television,Campo Televisión,,,CO,general,FALSE,,,,https://canalcampotv.com/
 CampSpoopy.us,Camp Spoopy,,,,US,kids,FALSE,,,,
 CampusLore.us,CampusLore,,GlewedTV,,US,sports,FALSE,,,,https://campuslore.com/
@@ -5641,6 +5641,7 @@ CINAFTV.be,CINAF TV,,,,BE,movies;series,FALSE,,,,https://cinaf.tv/fr/
 CinarcTV.cd,Cinarc TV,,,,CD,movies,FALSE,,,,
 CincoMas.es,CincoMas,,,,ES,general,FALSE,,,,https://www.cincomas.com/
 CincoTV.ar,Cinco TV,,,,AR,news,FALSE,,,,https://cincotv.com.ar/
+CINDIETV.br,CINDIE TV,,,DMD,BR,movies,FALSE,2025-01-01,,,https://www.cindie.com/
 Cine1.tr,Cine 1,,,,TR,general,FALSE,,,,https://www.artidijitalmedya.com/embed/tv/cine1/
 Cine21.in,Cine 21,,,,IN,movies,FALSE,,,,http://www.cine21tv.in/
 Cine34.it,Cine34,,,MFE - MediaForEurope,IT,movies,FALSE,2020-01-20,,,https://www.mediasetplay.mediaset.it/cine34
@@ -7817,7 +7818,7 @@ Duo6.ee,Duo 6,,,Duo Media Networks,EE,,FALSE,,,,https://www.duo6.ee/
 Duo6.lv,Duo 6,,,,LV,,FALSE,,,,https://duo6.lv/
 DurangaldekoTelebista.es,Durangaldeko Telebista,dotb,,,ES,general,FALSE,,,,https://dotb.eus/
 DuranTV.ec,Duran TV,Durán TV,,,EC,general,FALSE,,,,https://durantv.com.ec/
-DuraznoTV.uy,Durazno TV,Canal 7 Durazno,,,UY,general,FALSE,,,,
+DuraznoTV.uy,Durazno TV,Canal 7 Durazno,,Lanrod Ltda.,UY,general,FALSE,,,,
 DurontoTV.bd,Duronto TV,,,Barind Media Limited,BD,kids,FALSE,2017-10-05,,,http://www.duronto.tv/
 DushanbeHD.tj,Dushanbe HD,Душанбе HD,,,TJ,general,FALSE,,,,
 Dushevnoe.ru,Dushevnoe,Душевное,,,RU,,FALSE,,,,https://www.tricolor.tv/channels/dushevnoe/
@@ -10806,6 +10807,7 @@ HispaniaTV.pa,Hispania TV,,,,PA,entertainment,FALSE,,,,https://hispaniaweb.tv/
 HispanTV.ir,Hispan TV,,,IRIB,IR,news,FALSE,2011-12-21,,,https://www.hispantv.com/
 Hispasat4KTV.es,Hispasat 4K TV,,,,ES,general,FALSE,,,,http://www.hispasat.com/
 HiSportsTV.mx,Hi! Sports TV,,,Hussein Forzán,MX,sports,FALSE,2022-01-23,,,
+HistoiredelaTelevision.fr,Histoire de la Television,Histoire de la Télévision;HDLTV,,Patrick Sarréa,FR,entertainment;documentary,FALSE,2025-11-03,,,https://histoiredelatelevision.com/
 HistoireTV.fr,Histoire TV,Histoire,,Groupe TF1,FR,documentary,FALSE,1997-07-14,,,http://www.histoire.fr/
 Historia.ca,Historia,,,Corus Entertainment,CA,documentary,FALSE,2000-01-31,,,https://www.historiatv.com/
 Historia.es,Historia,História,,AMC Networks Inc.,ES,entertainment,FALSE,,,,https://tuamc.tv/canal-historia/
@@ -20339,8 +20341,8 @@ MSMotorTV.it,MS Motor TV,,,Mediasport Group S.p.A,IT,auto,FALSE,2012-09-29,,,htt
 MSNBC.us,MSNBC,,,NBCUniversal;Comcast Corporation,US,news,FALSE,1996-07-15,2025-11-15,MSNOW.us,https://www.msnbc.com/
 MSNBCInternational.us,MSNBC International,,,NBCUniversal News Group,US,news,FALSE,,,,http://www.msnbc.com/
 MSNOW.us,MS NOW,,,Versant Media Group Inc.,US,news,FALSE,2025-11-15,,,https://www.ms.now/live
-MSSports.uy,MS Sports,,,,UY,sports,FALSE,,,,https://www.multisenal.com.uy/
-MSSports2.uy,MS Sports 2,,,,UY,sports,FALSE,,,,https://www.multisenal.com.uy/
+MSSports.uy,MS Sports,,,Multiseñal,UY,sports,FALSE,,,,https://www.multisenal.com.uy/
+MSSports2.uy,MS Sports 2,,,Multiseñal,UY,sports,FALSE,,,,https://www.multisenal.com.uy/
 MST3K.us,MST3K,,Pluto TV,,US,series,FALSE,,,,https://pluto.tv/en/live-tv/mst3k
 MSTV.us,MSTV,,,,US,education,FALSE,,,,https://fl02202357.schoolwires.net/Domain/1154
 MTA1World.uk,MTA1 World,,Muslim Television Ahmadiyya International,Al-Shirkatul Islamiyyah,UK,religious,FALSE,1994-01-07,,,https://www.mta.tv/
