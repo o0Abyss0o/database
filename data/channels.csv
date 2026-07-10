@@ -720,6 +720,7 @@ AdultSwimChannel5.us,Adult Swim Channel 5,,Cartoon Network,Warner Bros. Discover
 AdultSwimDreamCorpLLC.us,Adult Swim Dream Corp LLC,,Cartoon Network,Warner Bros. Discovery Inc.,US,comedy,FALSE,,,,https://www.adultswim.com/videos/dream-corp-llc
 AdultSwimInfomercials.us,Adult Swim Infomercials,,Cartoon Network,Warner Bros. Discovery Inc.,US,entertainment,FALSE,,,,https://www.adultswim.com/videos/infomercials/
 AdultSwimLastStreamOnTheLeft.us,Adult Swim Last Stream On The Left,,Cartoon Network,Warner Bros. Discovery Inc.,US,entertainment,FALSE,,,,https://www.adultswim.com/videos/last-stream-on-the-left
+AdultSwimLatinAmerica.us,Adult Swim Latin America,,,Warner Bros. Discovery Inc.,US,entertainment,FALSE,2023-10-31,,,
 AdultSwimMetalocalypse.us,Adult Swim Metalocalypse,,Cartoon Network,Warner Bros. Discovery Inc.,US,entertainment,FALSE,,,,https://www.adultswim.com/videos/metalocalypse
 AdultSwimOffTheAir.us,Adult Swim Off The Air,,Cartoon Network,Warner Bros. Discovery Inc.,US,relax,FALSE,,,,https://www.adultswim.com/videos/off-the-air
 AdultSwimPrimal.us,Adult Swim Primal,,Cartoon Network,Warner Bros. Discovery Inc.,US,animation,FALSE,,,,https://www.adultswim.com/videos/primal
@@ -1631,7 +1632,7 @@ Antena3.es,Antena 3,Antena Tres;A3;Antena 3 HD,,Atresmedia Corporación de Medio
 Antena3CNN.ro,Antena 3 CNN,Antena 3,Antena Group,Intact Media Group,RO,news,FALSE,2005-06-27,,,https://www.antena3.ro/
 Antena3Internacional.es,Antena 3 Internacional,,,Atresmedia Corporación de Medios de Comunicación SA,ES,general,FALSE,1995-01-01,,,https://www.antena3internacional.com/
 Antena4Jardin.co,Antena 4 Jardin,Antena 4 Jardín,,,CO,general,FALSE,,,,
-Antena7.do,Antena 7,,,Albavision,DO,general,FALSE,1999-10-16,,,https://www.antena7.com.do/
+Antena7.do,Antena 7,,,Albavisión,DO,general,FALSE,1999-10-16,,,https://www.antena7.com.do/
 Antena91.ar,Antena 91,,,,AR,,FALSE,,,,http://www.antena91.com.ar/Reproductor.htm
 AntenaHD.pl,Antena HD,Antena,,,PL,entertainment,FALSE,2021-05-01,,,
 AntenaInternational.ro,Antena International,,Antena Group,Intact Media Group,RO,general,FALSE,2006-07-01,,,http://antenainternational.ro/
@@ -2358,8 +2359,9 @@ AWCTV.us,AWC TV,,,,US,education,FALSE,,,,https://www.azwestern.edu/communication
 AwdahTV.ps,Awdah TV,عودة,,,PS,,FALSE,,,,
 Awdeh.jo,Awdeh,,,,JO,,FALSE,,,,
 AWE.us,AWE,,,Herring Networks,US,general,FALSE,2013-07-04,,,https://www.awetv.com/
-AWEEncore.us,AWE Encore,,,Herring Networks,US,general,FALSE,2013-07-04,,,https://www.awetv.com/
+AWEEncore.us,AWE Encore,,,Herring Networks,US,general,FALSE,2020-05-04,2021-04-09,AWEPlus.us,https://www.awetv.com/
 AWEInternational.us,AWE International,,,Herring Networks,US,general,FALSE,2013-07-04,,,https://www.awetv.com/
+AWEPlus.us,AWE Plus,,,Herring Networks,US,general,FALSE,2021-04-09,,,https://www.awe.plus/
 AwesomenessTV.us,Awesomeness TV,,Pluto TV,,US,series,FALSE,,,,https://pluto.tv/en/live-tv/awesomenesstv
 AwesomeTV.my,Awesome TV,,,Awesome Media Network Sdn Bhd;Koperasi Amanah Pelaburan Berhad;Astro Malaysia Holdings Berhad,MY,general,FALSE,2020-08-03,,,https://awesometv.my/
 Awkward.de,Awkward,MTV Awkward,Pluto TV,Viacom International Inc.;Pluto TV Europe GmbH;Paramount Skydance Corporation,DE,series,FALSE,,,,https://pluto.tv/live-tv/awkward-de/details
@@ -4039,7 +4041,7 @@ Canal2Gualeguay.ar,Canal 2 Gualeguay,,,,AR,general,FALSE,,,,https://canal2gualeg
 Canal2International.cm,Canal 2 International,,,Groupe TV+,CM,general,FALSE,,,,http://www.canal2international.net/
 Canal2JesusMaria.ar,Canal 2 Jesus Maria,Canal 2 Jesús María,,,AR,general,FALSE,,,,
 Canal2Jujuy.ar,Canal 2 Jujuy,,,,AR,,FALSE,,,,http://canal2jujuy.com/canal2/
-Canal2Lascano.uy,Canal 2 Lascano,,,,UY,general,FALSE,1995-08-25,,,https://tv.vera.com.uy/content/2s6nk
+Canal2Lascano.uy,Canal 2 Lascano,,,Lascano TV Cable S.A.,UY,general,FALSE,1995-08-25,,,https://tv.vera.com.uy/content/2s6nk
 Canal2Linares.cl,Canal 2 Linares,,,,CL,general,FALSE,,,,https://www.canal2linares.cl/
 Canal2MardelPlata.ar,Canal 2 Mar del Plata,,,,AR,general,FALSE,,,,https://canal2mdp.com.ar/
 Canal2MiCanal.co,Canal 2 Mi Canal,,,,CO,general,FALSE,,,,
@@ -7917,6 +7919,7 @@ DRK.dk,DR K,,,DR,DK,documentary,FALSE,2009-11-01,2020-01-02,,http://dr.dk/K/
 DrochiaTV.md,Drochia TV,,,,MD,general,FALSE,,,,https://drochia.tv/
 DroneTV.us,DroneTV,DroneTV by AirVuz,,AirVuz LLC,US,relax;travel,FALSE,2020-09-19,,,https://www.airvuz.com/dronetv
 DrOz.us,Dr Oz,,Pluto TV,,US,series,FALSE,,,,https://pluto.tv/en/live-tv/dr-oz
+DrPalTV.sa,Dr Pal TV,,,,SA,general,FALSE,,,,https://drpal.online/
 DRRamasjang.dk,DR Ramasjang,,,DR,DK,kids,FALSE,2009-11-01,,,http://www.dr.dk/Ramasjang/
 DrShuddhi.in,Dr Shuddhi,,,,IN,education,FALSE,,,,https://shuddhi.com/
 DRTDenizli.tr,DRT Denizli,,,,TR,general,FALSE,,,,https://www.drttv.com.tr/
@@ -13440,6 +13443,7 @@ Kanal3.tr,Kanal 3,,,,TR,general,FALSE,,,,http://kanal3.com.tr/
 Kanal32.tr,Kanal 32,,,,TR,general,FALSE,,,,http://www.kanal32.com.tr/
 Kanal33.tr,Kanal 33,,,Kanal Media Center A S,TR,general,FALSE,,,,http://www.kanal33.com.tr/
 Kanal34.tr,Kanal 34,,,,TR,general,FALSE,,,,https://kanal34.tv/
+Kanal35.az,Kanal 35,,,,AZ,general,FALSE,,,,https://live.ntv.az/
 Kanal38.tr,Kanal 38,,,,TR,general,FALSE,,,,https://www.kanal38.com.tr/
 Kanal4.dk,Kanal 4,Channel 4,,Warner Bros. Discovery EMEA,DK,entertainment,FALSE,2006-05-01,,,http://www.kanal4.dk/
 Kanal42.tr,Kanal 42,,,,TR,general,FALSE,,,,https://www.kanal42haber.com/
@@ -16137,6 +16141,7 @@ KOMUTV83.us,KOMU-TV 8.3,Mid-Missouri CW;KOMU-CW,CW+,The Curators of the Universi
 KONG51.us,KONG 5.1,KING 5;KING,NBC,KONG-TV Inc.,US,general,FALSE,1997-07-07,,,http://www.kongtv.com/
 KONGDT2.us,KONG-DT2,,True Crime Network,Tegna Inc,US,documentary,FALSE,,,,
 KONGDT3.us,KONG-DT3,,Quest,Tegna Inc,US,travel,FALSE,,,,
+KongressTV.ru,Kongress TV,Конгресс ТВ,,,RU,general,FALSE,2024-03-01,,,https://tvcongress.ru/
 KonkurentTV.ua,Konkurent TV,Конкурент TV;Concurrent TV,,Konkurent TV,UA,news;business,FALSE,,,,https://konkurent.ua/
 Konniymir.ru,Konniy mir,Конный мир,,,RU,outdoor,FALSE,2015-05-10,2026-04-01,,http://news.sportbox.ru/Vidy_sporta/horse_world
 KontaktTV.nl,Kontakt TV,,,,NL,general,FALSE,2015-01-01,,,https://tvkontakt.nl/
@@ -21836,7 +21841,8 @@ NewsJ.in,News J,,Mantaro Network Private Limited,W. Thanigai Velan,IN,news,FALSE
 NewsLive.in,News Live,,,Pride East Entertainments Pvt Ltd,IN,news,FALSE,2008-01-21,,,https://www.newslivetv.com/
 NewsMalayalam24x7.in,News Malayalam 24x7,ന്യൂസ് മലയാളം 24x7;News മലയാളം 24x7,MSO – Thamizhaga Cable TV Communication Limited (TCCL) Group,SPLUS Media Limited;News Malayalam Private Limited,IN,news,FALSE,2024-05-29,,,https://newsmalayalam.com/
 Newsmax2.us,Newsmax 2,,,Newsmax Media,US,news,FALSE,,,,https://www.newsmaxtv.com/n2
-NewsmaxTV.us,Newsmax TV,,,Newsmax,US,news,FALSE,2014-06-16,,,https://www.newsmaxtv.com/
+NewsmaxSpanish.us,Newsmax Spanish,Newsmax en Español,,Newsmax Media,US,news,FALSE,,,,
+NewsmaxTV.us,Newsmax TV,,,Newsmax Media,US,news,FALSE,2014-06-16,,,https://www.newsmaxtv.com/
 NewsNation.in,News Nation,,,News Nation Network Pvt Ltd.,IN,news,FALSE,2013-02-14,,,https://www.newsnationtv.com/
 NewsNation.us,NewsNation,,,Nexstar Media Group,US,news,FALSE,2021-03-01,,,https://www.newsnationnow.com/
 NewsNepalTV.np,News Nepal TV,,,,NP,news,FALSE,,,,https://newsnepaltv.com/
@@ -22695,8 +22701,8 @@ O2TVSport5.cz,O2 TV Sport 5,,,,CZ,sports,FALSE,,,,https://www.o2tv.cz/tv/kanaly/
 O2TVSport6.cz,O2 TV Sport 6,,,,CZ,sports,FALSE,,,,https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/
 O2TVTenis.cz,O2 TV Tenis,,,,CZ,sports,FALSE,,,,https://www.o2tv.cz/tv/kanaly/O2%20Sport%20HD/
 OaheTV.us,OaheTV,,,,US,general,FALSE,,,,https://oahetv.com/
-OANEncore.us,OAN Encore,,,Herring Networks,US,news,FALSE,,,,https://www.oann.com/
-OANPlus.us,OAN Plus,,Pluto TV,,US,news,FALSE,,,,https://pluto.tv/en/live-tv/oan-plus
+OANEncore.us,OAN Encore,,,Herring Networks,US,news,FALSE,2020-05-04,2021-04-09,OANPlus.us,https://www.oann.com/
+OANPlus.us,OAN Plus,,,Herring Networks,US,news,FALSE,2021-04-09,,,https://www.oan.plus/
 OasisRTV.pe,Oasis RTV,,,,PE,general,FALSE,,,,http://oasisrtv.com/
 OasisTelevision.ve,Oasis Television,Oasis Televisión,,,VE,general,FALSE,,,,http://oasistelevision.com
 OasisTV.co,Oasis TV,,,Centro de Alabanza Oasis,CO,religious,FALSE,,,,http://canaloasis.com/
@@ -23120,7 +23126,8 @@ OrisunTV.ng,Orisun TV,,,,NG,,FALSE,,,,https://www.orisun.tv/
 OrizontTV.md,Orizont TV,,,,MD,general,FALSE,,,,https://orizont.tv/
 OrleansChannel18.us,Orleans Channel 18,,,,US,legislative,FALSE,,,,https://www.town.orleans.ma.us/273/Orleans-Channel-18
 OrlerTV.it,Orler TV,,,,IT,culture,FALSE,,,,https://www.orler.it/
-OromarTV.ec,Oromar TV,,,Sistemas Globales de Comunicacion HCglobal S A,EC,general,FALSE,2010-11-01,,,http://oromartv.com/
+OromarTV.ec,Oromar TV,,,Sistemas Globales de Comunicacion HCGLOBAL S.A.,EC,general,FALSE,2010-11-01,,,http://oromartv.com/
+OromarTVPlus.ec,Oromar TV+,,,Sistemas Globales de Comunicacion HCGLOBAL S.A.,EC,general,FALSE,,,,http://oromartv.com/
 Oromia11.us,Oromia 11,,,,US,general,FALSE,,,,https://oromia11.org/
 OromiaBroadcastingService.et,Oromia Broadcasting Service,OBS,,OBN,ET,general,FALSE,2012-06-01,,,
 OromiaClergyNetwork.et,Oromia Clergy Network,OCN,,,ET,religious,FALSE,2013-01-01,,,
@@ -25173,6 +25180,7 @@ Radiofreccia.it,Radiofreccia,RTL Rock,,RTL 102.500 Hit Radio S.R.L.,IT,music,FAL
 RadioFrecuenciaUno.cl,Radio Frecuencia Uno,,,,CL,general,FALSE,,,,
 RadioFrontieres.fr,Radio Frontieres,Radio Frontières,,,FR,,FALSE,,,,https://www.frontieresmedia.fr/
 RadioFxNet.ro,Radio Fx Net,,,,RO,music,FALSE,,,,https://radiofxnet.ro/
+RadioGente.bo,Radio Gente,,,,BO,general,FALSE,,,,https://radiogentebolivia.com/
 RadioGuairaTV.py,Radio Guaira TV,Radio Guairá TV,,,PY,general,FALSE,,,,https://www.radioguaira.com/radio-guaira-tv/
 RadioHit.ru,Radio Hit,Радио Хит,,,RU,music,FALSE,,,,http://smotri.radio/
 RadioHitFMTV.rs,Radio Hit FM TV,,,LITE FM doo,RS,music,FALSE,,,,http://www.hitfm.rs/
@@ -25524,6 +25532,7 @@ RCGTV.cm,RCG TV,,,,CM,culture;music,FALSE,,,,
 RCGTV.mx,RCG TV,,,,MX,,FALSE,,,,https://rcgmedia.mx/
 RCGTV2.mx,RCG TV 2,,,,MX,,FALSE,,,,
 RCGTV3.mx,RCG TV 3,,,,MX,,FALSE,,,,
+RChannel.th,R Channel,,,,TH,education,FALSE,,,,http://r-channel.net/
 RCKTV.cl,RCK TV,,,,CL,music,FALSE,,,,https://rcktv.cl/
 RCMTV.co,RCM TV,Red Católica de Medios,,,CO,religious,FALSE,,,,https://www.rcmtv.com.co/
 RCMusic.in,RC Music,,,,IN,music,FALSE,,,,https://rctv.in/home
@@ -27540,6 +27549,7 @@ SitubondoTV.id,Situbondo TV,,,,ID,,FALSE,,,,http://www.situbondotv.com/
 SiTV.do,SiTV,,,,DO,general,FALSE,,,,https://sitv.com.do/
 SiTV.hn,SiTV,,,,HN,general,FALSE,,,,https://sitvhn.com/
 SivanTV.ch,Sivan TV,,,,CH,religious,FALSE,,,,http://sivantv.com/
+SivarTV.sv,Sivar TV,,,,SV,general,FALSE,,,,https://www.sivarmediatv.com/
 SiweulTV.sn,Siweul TV,,,,SN,general,FALSE,,,,https://www.siweul.net/siweul-tv/
 SIXOTV.hu,SIXO TV,,,,HU,general,FALSE,,,,https://szikszo.hu/
 SixTV.cd,Six TV,,,,CD,general,FALSE,,,,
@@ -30288,6 +30298,7 @@ TelevisionNiue.nu,Television Niue,Television Niue;TV Niue,,Broadcasting Corporat
 TelevisionNuevaJerusalen.sv,Television Nueva Jerusalen,Televisión Nueva Jerusalén,,,SV,religious,FALSE,,,,
 TelevisionOlanchana.hn,Television Olanchana,Televisión Olanchana,,,HN,general,FALSE,,,,https://televisionolanchana.com/
 TelevisionOriental.hn,Television Oriental,Televisión Oriental;TVO Canal 25,,,HN,general,FALSE,,,,https://www.multimediostvo.hn/
+TelevisionPublica.ar,Television Publica,Televisión Pública;TVP;TV Publica,,Radio y Televisión Argentina S.A.,AR,general,FALSE,1951-10-17,,,http://tvpublica.com.ar/
 TelevisionRivense.ni,Television Rivense,Televisión Rivense,,Grupo Mediático,NI,general,FALSE,,,,
 TelevisionSantiaguena.sv,Television Santiaguena,Televisión Santiagueña,,,SV,general,FALSE,,,,https://radiocaffe909.com/
 TelevisionSerrana.cu,Television Serrana,Televisión Serrana,ICRT,,CU,general,FALSE,1993-01-15,,,
@@ -31077,6 +31088,7 @@ TransAngels.ca,TransAngels,,,Aylo Premium Ltd.,CA,xxx,TRUE,,,,https://www.transa
 TransfigurationTV.cm,Transfiguration TV,,,,CM,,FALSE,,,,
 TransformersTV.cm,Transformers TV,,,,CM,,FALSE,,,,
 TransformersTV.us,Transformers TV,Transformers;Nickelodeon Transformers TV,Pluto TV,Viacom International Inc.;Pluto Inc.;Paramount Skydance Corporation,US,kids,FALSE,,,,https://pluto.tv/live-tv/transformerstv/details
+TransMedia.bo,TransMedia,,,,BO,general,FALSE,,,,https://transmedia.com.bo/
 TransmediaTelevisionMorelia.mx,Transmedia Television Morelia,Transmedia Televisión Morelia,,,MX,,FALSE,,,,
 TransTV.id,Trans TV,,,Trans Media,ID,general,FALSE,2001-12-15,,,https://www.transtv.co.id/
 TrashTV.ru,Trash TV,,,,RU,,FALSE,,,,https://trashtv.ru/
@@ -31532,7 +31544,7 @@ TV38.tr,TV 38,,,,TR,,FALSE,,,,
 TV38SudostNiedersachen.de,TV38 Sudost-Niedersachen,TV38 Südost-Niedersachen,,,DE,,FALSE,,,,
 TV3ad.ye,TV3ad,Aad Channel;TV قناة عاد,,,YE,general,FALSE,,,,https://tv3ad.net/
 TV3CAT.es,TV3CAT,,,Televisió de Catalunya,ES,,FALSE,1995-01-01,,,http://www.ccma.cat/tv3/directe/tv3cat/
-TV3International.ru,TV3 International,ТВ3 International,,,RU,,FALSE,,,,https://tv3.ru/
+TV3International.ru,TV3 International,ТВ3 International,,Gazprom Media,RU,,FALSE,,,,https://tv3.ru/
 TV3LaPlata.co,TV3 La Plata,,,,CO,general,FALSE,,,,
 TV3Life.ee,TV3 Life,,,,EE,,FALSE,,,,https://www.tv3.ee/life/
 TV3Life.lv,TV3 Life,,,,LV,lifestyle;entertainment,FALSE,2020-03-01,,,https://www.tv3.lv/tv3life/
@@ -32685,7 +32697,6 @@ TVProfissao.br,TV Profissao,TV Profissão,,,BR,,FALSE,,,,
 TVPRozrywka.pl,TVP Rozrywka,,,Telewizja Polska,PL,,FALSE,2013-04-15,,,https://tvprozrywka.tvp.pl/
 TVPSeriale.pl,TVP Seriale,,TVP,Telewizja Polska,PL,series,FALSE,2010-12-06,,,https://seriale.tvp.pl/
 TVPSport.pl,TVP Sport,,TVP,Telewizja Polska,PL,sports,FALSE,,,,https://sport.tvp.pl/
-TVPublica.ar,TV Publica,TV Pública,,,AR,general,FALSE,,,,https://www.tvpublica.com.ar/
 TVPublicaFueguina.ar,TV Publica Fueguina,TV Pública Fueguina,,,AR,,FALSE,,,,https://tvpublicafueguina.com.ar/
 TVPublicaMarcosPaz.ar,TV Publica Marcos Paz,TV Pública Marcos Paz,,Sistema Municipal de Medios y Contenidos Públicos,AR,general,FALSE,,,,https://www.mediospublicos.marcospaz.net/
 TVPuls.pl,TV Puls,,,Telewizja Puls,PL,,FALSE,1995-12-01,,,https://tvpuls.pl/
@@ -32859,6 +32870,7 @@ TVShopPhilippines.ph,TV Shop Philippines,,,,PH,shop,FALSE,,,,http://tvshop.ph/
 TVShoptime.br,TV Shoptime,,,,BR,shop,FALSE,,,,https://www.shoptime.com.br/ofertasdatv/?chave=TV_FAIXA_FOOTER
 TVShopTour.br,TV Shop Tour,Shop Tour TV,,,BR,shop,FALSE,1987-01-01,2014-01-01,TVNovoTempo.br,https://www.shoptour.com.br/
 TVSHorrorNetwork.us,TVS Horror Network,,,,US,classic,FALSE,,,,
+TVShowFortaleza.br,TV Show Fortaleza,,,,BR,general,FALSE,,,,https://www.tvshowfortaleza.com/
 TVShowOruro.bo,TV Show Oruro,,,,BO,general,FALSE,,,,
 TVShows.es,TV Shows,,,,ES,entertainment;series,FALSE,,,,
 TVShumen.bg,TV Shumen,Телевизия Шумен,,Obshtinski Medien Tsentŭr,BG,general,FALSE,,,,https://www.tvshumen.tv/
@@ -32901,6 +32913,7 @@ TVSPES.tg,TV SPES,,,Église Catholique du Togo,TG,religious,FALSE,,,,https://tel
 TVSPetParadeNetwork.us,TVS Pet Parade Network,,,,US,classic,FALSE,,,,
 TVSPinballNetwork.us,TVS Pinball Network,,,,US,kids,FALSE,,,,
 TVSPortOCall.us,TVS Port O Call,,,,US,travel,FALSE,,,,https://www.watchyour.tv/live.php?id=824
+TVSpravedlivaBulgariya.bg,TV Spravedliva Bulgariya,ТВ Справедлива Бьлгариа,,,BG,general,FALSE,,,,https://tvsb.bg/
 TVSQuizShowNetwork.us,TVS Quiz Show Network,,,,US,classic,FALSE,,,,
 TVSRareCollectibles.us,TVS Rare Collectibles,,,,US,shop,FALSE,,,,
 TVSRetro.gt,TVS Retro,,,,GT,classic,FALSE,,,,https://www.playgt.net/tvsretro
@@ -33667,7 +33680,7 @@ VertsPaturagesTV.cd,Verts Paturages TV,Verts Pâturages TV,,,CD,general,FALSE,,,
 VeryLocal.us,Very Local,,,Hearst Television,US,news,FALSE,2021-09-20,,,https://www.verylocal.com/
 VeryTV.th,Very TV,,,,TH,,FALSE,,,,
 VeseljakTV.si,Veseljak TV,,,,SI,,FALSE,,,,
-Vesna.ru,Vesna,,,Plan_B Kino,RU,movies,FALSE,,,,
+Vesna.ru,Vesna,,,Plan_B Kino,RU,movies,FALSE,2026-07-04,,,
 VesterbroLokalTV.dk,Vesterbro Lokal TV,,,,DK,general,FALSE,,,,https://vesterbrolokaltv.dk/
 Vesti.rs,Vesti,Вести,,Pink Media Group d.o.o.,RS,,FALSE,,,,http://www.pink.rs/
 VestiFM.ru,Vesti FM,Вести FM,,,RU,news,FALSE,,,,https://vgtrk.ru/radiovesti
@@ -33716,6 +33729,9 @@ VH1ClassicLatinAmerica.us,VH1 Classic Latin America,,,,US,music,FALSE,2004-01-01
 VH1LatinAmerica.us,VH1 Latin America,,,,US,music,FALSE,,2020-10-07,MTV00s.uk,https://www.vh1.com/
 VH1QueensofReality.us,VH1 Queens of Reality,,Pluto TV,Viacom International Inc.;Pluto Inc.;Paramount Skydance Corporation,US,entertainment,FALSE,,,,https://pluto.tv/live-tv/vh1-queens-of-reality/details
 VHSka.ru,VHS-ka,VHS-ка,,Media-Content,RU,movies,FALSE,2022-11-18,,,
+VHSkadetskiy.ru,VHS-ka detskiy,VHS-ка детский,,Media-Content,RU,kids,FALSE,,,,
+VHSkaRusskoekino.ru,VHS-ka Russkoe kino,VHS-ка Русское кино,,Media-Content,RU,movies,FALSE,2026-01-16,,,
+VHSkaserial.ru,VHS-ka serial,VHS-ка сериал,,Media-Content,RU,series,FALSE,,,,
 VHSTV.ru,VHS TV,,,,RU,movies,FALSE,,,,https://vk.com/vhs_tv_live
 VIA.za,VIA,,,Media24,ZA,,FALSE,,,,http://www.viatv.co.za/
 Via93.fr,Via93,Vià93,,,FR,general,FALSE,,,,https://via93.tv/
@@ -33959,6 +33975,7 @@ Vision6TV.es,Vision 6 TV,Visión 6 TV,,,ES,,FALSE,,,,
 VisionalSur.ec,Vision al Sur,Visión al Sur;Chabelo Girón TV,,,EC,general,FALSE,,,,https://telecomunicacionesdelsur.com.ec/
 VisionGlobalTV.us,Vision Global TV,Visión Global TV,,Grupo de Medios Global Inc.,US,general,FALSE,,,,https://visionglobaltv.net/
 VisionLatina.pa,Vision Latina,Visión Latina,,,PA,religious,FALSE,,,,https://visionlatinapanama.com/
+VisionLatinaNetwork.us,Vision Latina Network,,,The Universal Church Inc.,US,general,FALSE,2022-01-01,,,https://visionlatina.com/
 VisionNDV.do,Vision NDV,Visión NDV,,,DO,entertainment,FALSE,,,,https://www.visionndv.com/
 VisionPentecostal.ni,Vision Pentecostal,Visión Pentecostal;Canal 30 Condega,,,NI,religious,FALSE,,,,https://visionpentecostal.wordpress.com/
 VisionPlusTV.cl,Vision Plus TV,Visión Plus TV,,,CL,,FALSE,,,,https://www.visionplustv.cl/
