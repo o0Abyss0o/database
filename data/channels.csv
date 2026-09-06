@@ -273,7 +273,7 @@ id,name,alt_names,network,owners,country,categories,is_nsfw,launched,closed,repl
 5Sport.il,5Sport,ספורט 5,,RGE Group,IL,sports,FALSE,,,,http://www.sport5.co.il/
 5Sport4K.il,5Sport 4K,,,RGE Group,IL,sports,FALSE,,,,http://www.sport5.co.il/
 5STAR.uk,5STAR,,,Paramount Global,UK,entertainment,FALSE,2006-10-15,,,http://channel5.com/5star
-5StarMax.us,5StarMax,,,Warner Bros. Discovery Inc.,US,movies,FALSE,2001-05-17,,,https://max.com
+5StarMax.us,5StarMax,,,Warner Bros. Discovery Inc.,US,movies,FALSE,2001-05-17,2025-09-04,CinemaxClassics.us,https://max.com
 5Stars.il,5Stars,,,RGE Group,IL,sports,FALSE,,,,http://www.sport5.co.il/
 5Thukhuma.mm,5 Thukhuma,,,,MM,general,FALSE,,,,https://thukhuma.org/about/
 5Thukhuma2.mm,5 Thukhuma 2,,,,MM,general,FALSE,,,,https://thukhuma.org/about/
@@ -621,7 +621,7 @@ Action.us,Action,,,Get After It Media,US,sports;movies,FALSE,2008-01-01,2026-05-
 Action24.gr,Action 24,TVM;TV Magic;Magic Πειραιά;Magic TV;Sport TV,,Radio TV Promotion S.A.,GR,movies,FALSE,1990-10-01,,,https://action24.gr/
 actionbox.bg,action.box,,,Bulsatcom,BG,movies,FALSE,2021-08-01,,,http://www.bulsatcom.bg/
 ActionChannel.jp,Action Channel,アクションチャンネル,,AXN Co. Ltd.,JP,series,FALSE,,,,https://www.axn.co.jp/
-ActionMax.us,ActionMax,,,Warner Bros. Discovery Inc.,US,movies,FALSE,1998-01-01,,,http://www.cinemax.com/
+ActionMax.us,ActionMax,,,Warner Bros. Discovery Inc.,US,movies,FALSE,1998-01-01,2025-09-04,CinemaxAction.us,http://www.cinemax.com/
 ActionMovies.es,Action Movies,,,,ES,movies,FALSE,,,,
 ActionNewsJaxNow.us,Action News Jax Now,WJAX-TV,,Hoffmann Communications,US,news,FALSE,1980-08-01,,,https://www.actionnewsjax.com/
 ActionPlus.bg,Action+,,,Bulsatcom,BG,movies,FALSE,,2021-08-01,actionbox.bg,http://tvplus.bg/
@@ -2473,6 +2473,7 @@ AzamOne.tz,Azam One,,,Bakhresa Group,TZ,,FALSE,2013-01-01,,,http://azamtv.co.tz/
 AzamSports1.tz,Azam Sports 1,,,Bakhresa Group,TZ,sports,FALSE,2013-01-01,,,https://web.azamtvmax.com/Home
 AzamSports2.tz,Azam Sports 2,,,Bakhresa Group,TZ,sports,FALSE,2013-01-01,,,https://web.azamtvmax.com/Home
 AzamSports3.tz,Azam Sports 3,,,Bakhresa Group,TZ,sports,FALSE,,,,https://web.azamtvmax.com/Home
+AzamSports4.tz,Azam Sports 4,,,Bakhresa Group,TZ,sports,FALSE,,,,https://web.azamtvmax.com/Home
 AzamTwo.tz,Azam Two,,,Bakhresa Group,TZ,,FALSE,2013-01-01,,,http://azamtv.co.tz/
 AzamXtra.tz,Azam Xtra,,,Bakhresa Group,TZ,entertainment,FALSE,,,,https://azamtv.co.tz/
 AzanTV.ca,Azan TV,,,,CA,religious,FALSE,,,,https://azan.tv/
@@ -3901,7 +3902,7 @@ CaminoRealTV.do,Camino Real TV,,,,DO,general,FALSE,,,,http://www.caminoreal.do/
 CaminosMedia.ve,Caminos Media,,,,VE,,FALSE,,,,
 CamnetTV.zm,Camnet TV,,,,ZM,general,FALSE,,,,https://camnettvafrica.com/
 CamoesTV.ca,Camoes TV,Camões TV,,,CA,general,FALSE,,,,https://camoestv.com/
-CampeonesTV.ni,Campeones TV,,,Gobierno de Nicaragua,NI,sports,FALSE,2024-11-27,,,
+CampeonesTV.ni,Campeones TV,,,Gobierno de Nicaragua;Celeste S.A.,NI,sports,FALSE,2024-11-27,,,https://www.vivanicaragua.com.ni/
 CampinaSurTV.es,Campina Sur TV,Campiña Sur TV,,,ES,,FALSE,,,,
 CampKulinaris.se,Camp Kulinaris,,Pluto TV,Viaplay Group AB (publ);VIMN Nordic AB;Paramount Skydance Corporation,SE,entertainment,FALSE,,,,https://pluto.tv/live-tv/camp-kulinaris-se/details
 Campo9Online.py,Campo 9 Online,,,,PY,general,FALSE,,,,
@@ -8582,7 +8583,7 @@ ETV.tr,ETV,Edirne Televizyonu,,,TR,general,FALSE,,,,https://www.edirnetv.com/
 etv.za,e.tv,,,eMedia Investments,ZA,general,FALSE,1998-10-01,,,https://www.etv.co.za/
 ETV2.ee,ETV 2,,,ERR,EE,kids;culture,FALSE,2008-08-08,,,http://etv2.err.ee/
 ETVAbhiruchi.in,ETV Abhiruchi,,ETV,Eenadu Television Private Limited (ETV);Ramoji Group,IN,cooking,FALSE,2015-11-01,2026-08-27,ETVMusic.in,http://www.etv.co.in/channels/home?channelId=6
-ETVAfaanOromoo.et,ETV Afaan Oromoo,,,Ethiopian Government,ET,general,FALSE,,,,https://ebc.et/
+ETVAfaanOromoo.et,ETV Afaan Oromoo,ኢቲቪ አፋን ኦሮሞ,,Ethiopian Government,ET,general,FALSE,,,,https://ebc.et/
 etvAfrica.za,e.tv Africa,,,eMedia Investments,ZA,general,FALSE,,,,https://www.etv.co.za/
 ETVAfrique.ml,ETV Afrique,,,,ML,education,FALSE,,,,
 ETVAndhraPradesh.in,ETV Andhra Pradesh,,ETV,Eenadu Television Private Limited (ETV);Ramoji Group,IN,news,FALSE,2014-05-01,,,http://www.etv.co.in/channels/home?channelId=3
@@ -8617,6 +8618,7 @@ ETVN.au,ETVN,Entrepreneur's TV Network,,ETVN Media Ltd,AU,,FALSE,,,,https://entr
 ETVNews.et,ETV News,ኢቲቪ ዜና,,Ethiopian Government,ET,news,FALSE,,,,http://www.ebc.et/
 ETVNews.in,ETV News,,ETV,Eenadu Television Private Limited (ETV); Ramoji Group,IN,news,FALSE,,,,
 etvNewsSport.za,e.tv News & Sport,,,eMedia Investments,ZA,news,FALSE,,,,https://www.openview.co.za/channel/open-news
+ETVParliamentChannel.et,ETV Parliament Channel,,,Ethiopian Government,ET,legislative,FALSE,2025-10-06,,,https://www.ebc.et/
 ETVPlus.ee,ETV+,,,ERR,EE,entertainment,FALSE,2016-09-28,,,http://etvpluss.err.ee/
 ETVPlus.in,ETV Plus,,ETV,Eenadu Television Private Limited (ETV);Ramoji Group,IN,entertainment,FALSE,2015-11-01,,,http://www.etv.co.in/channels/home?channelId=5
 ETVPublicAccess.us,E-TV Public Access,,,,US,general,FALSE,,,,https://vod-eagan.cablecast.tv/CablecastPublicSite/?channel=3
@@ -8892,7 +8894,8 @@ Famous.au,Famous,Docos;Fox Docos,,Foxtel Networks,AU,documentary,FALSE,2021-09-0
 FamousTV.gh,Famous TV,,,,GH,,FALSE,,,,
 FamypancTV.es,Famypanc TV,,,,ES,general;news,FALSE,,,,
 FAN.ru,FAN,,,Signal Media,RU,animation;movies,FALSE,2018-01-01,,,http://signalomedia.ru/
-FanaTV.et,Fana TV,,,Fana Broadcasting Corporate,ET,general,FALSE,2017-07-01,,,https://www.fanabc.com/%e1%8d%8b%e1%8a%93-%e1%89%b2%e1%89%aa/
+FanaPlusTV.et,Fana Plus TV,,,Fana Media Corporation S.C.,ET,general,FALSE,,,,https://www.fanabc.com/%e1%8d%8b%e1%8a%93-%e1%89%b2%e1%89%aa/
+FanaTV.et,Fana TV,,,Fana Media Corporation S.C.,ET,general,FALSE,2017-07-01,,,https://www.fanabc.com/%e1%8d%8b%e1%8a%93-%e1%89%b2%e1%89%aa/
 FanDuelRacing.us,FanDuel Racing,TVG2;HRTV,,,US,sports,FALSE,2003-01-01,,,https://www.tvg.com/
 FanDuelSportsNetwork.us,FanDuel Sports Network,,,,US,sports,FALSE,,,,
 FanDuelSportsNetworkDetroit.us,FanDuel Sports Network Detroit,Bally Sports Detroit;Fox Sports Detroit,FanDuel Sports Network,Main Street Sports Group,US,sports,FALSE,1997-09-17,,,http://fanduelsportsNetworknetwork.com/detroit
@@ -9157,7 +9160,7 @@ FilmArts.ar,Film & Arts,Film & Arts Brasil,,AMC Global Media,AR,movies,FALSE,,,,
 FilmAutor.al,Film Autor,,,DigitAlb,AL,movies,FALSE,2004-07-15,,,https://www.digitalb.al/
 Filmax.pk,Filmax,,,,PK,movies,FALSE,,,,
 Filmazia.pk,Filmazia,,,,PK,movies,FALSE,,,,
-FilmBox.nl,FilmBox,FilmBox,,SPI International Inc.,NL,movies,FALSE,2021-05-03,,,https://www.filmbox.nl/
+FilmBox.nl,FilmBox,FilmBox,,SPI International Inc.,NL,movies,FALSE,2021-05-03,2026-09-01,FILMBOXPlusOne.pl,https://www.filmbox.nl/
 FilmBoxAction.nl,FilmBox Action,,,SPI International Inc.,NL,movies,FALSE,,2026-06-10,FILMBOXPlusAction.pl,https://www.filmbox.nl/
 FilmBoxAfrica.nl,FilmBox Africa,,,SPI International Inc.,NL,movies,FALSE,,2026-06-10,,https://www.filmbox.nl/
 FilmBoxArthouse.nl,FilmBox Arthouse,,,SPI International Inc.,NL,movies,FALSE,,2026-06-10,FILMBOXPlusFestival.pl,https://www.filmbox.nl/
@@ -10700,7 +10703,7 @@ HBO2.br,HBO 2,HBO 2 Brasil,HBO,Warner Bros. Discovery,BR,movies;series,FALSE,199
 HBO2.ca,HBO 2,HBO West;HBO Canada 2,Crave,Bell Media,CA,movies,FALSE,2008-10-03,,,https://www.crave.ca/hbo
 HBO2.pl,HBO 2,HBO 2 Polska,HBO Europe,Warner Bros. Discovery,PL,movies;series,FALSE,2002-12-01,,,http://www.hbo.pl/HBO2.aspx
 HBO2.ro,HBO 2,,HBO Europe,Warner Bros. Discovery,RO,movies;series,FALSE,2016-03-21,,,http://www.hbo.ro/
-HBO2.us,HBO 2,HBO Plus East,HBO,Home Box Office Inc.;Warner Bros. Discovery,US,movies;series,FALSE,1991-08-01,,,https://www.hbo.com/
+HBO2.us,HBO 2,HBO Plus East,HBO,Home Box Office Inc.;Warner Bros. Discovery,US,movies;series,FALSE,1991-08-01,2025-09-04,HBOHits.us,https://www.hbo.com/
 HBO2CentralEurope.hu,HBO 2 Central Europe,,HBO Europe,Warner Bros. Discovery,HU,movies;series,FALSE,2003-09-09,2019-01-01,,http://www.hbo-europe.com/
 HBO2LatinAmerica.us,HBO 2 Latin America,,HBO,Warner Bros. Discovery Inc.,US,movies;series,FALSE,2010-06-01,,,http://www.hbolatam.com/
 HBO3.pl,HBO 3,HBO 3 Polska;HBO Comedy,,Warner Bros. Discovery EMEA,PL,,FALSE,2016-03-21,2019-09-05,,http://www.hbo.pl/HBOComedy.aspx
@@ -10729,12 +10732,12 @@ HBOPlusLatinAmerica.us,HBO+ Latin America,,,,US,,FALSE,,,,https://www.hbolatam.c
 HBOPop.br,HBO Pop,HBO Pop Brasil,,Warner Bros. Discovery,BR,movies,FALSE,2015-01-10,,,https://www.hbobrasil.com/
 HBOPopLatinAmerica.us,HBO Pop Latin America,,,Warner Bros. Discovery Inc.,US,comedy,FALSE,2015-01-10,,,https://www.hbolatam.com/
 HBOSignature.br,HBO Signature,,,,BR,movies,FALSE,,,,https://br.hbomax.tv/hbosignature
-HBOSignature.us,HBO Signature,,,Home Box Office Inc.;Warner Bros. Discovery,US,movies;series,FALSE,1991-08-01,,,http://www.hbo.com/hbosignature/
+HBOSignature.us,HBO Signature,,,Home Box Office Inc.;Warner Bros. Discovery,US,movies;series,FALSE,1991-08-01,2025-09-04,HBODrama.us,http://www.hbo.com/hbosignature/
 HBOSignatureAsia.sg,HBO Signature Asia,,HBO Asia,HBO Asia Pte Ltd,SG,movies,FALSE,2005-01-01,,,http://www.hboasia.com/signature
 HBOSignatureLatinAmerica.us,HBO Signature Latin America,,,,US,,FALSE,,,,http://www.hbomax.tv/hbo-signature/
 HBOXtreme.br,HBO Xtreme,,,Warner Bros. Discovery,BR,movies;series,FALSE,2020-02-01,,,https://www.hbobrasil.com/
 HBOXtremeLatinAmerica.us,HBO Xtreme Latin America,,,Warner Bros. Discovery Inc.,US,movies;series,FALSE,2020-02-01,,,https://www.hbolatam.com/
-HBOZone.us,HBO Zone,,,Home Box Office Inc.;Warner Bros. Discovery,US,movies;series,FALSE,1999-05-06,,,http://www.hbo.com/
+HBOZone.us,HBO Zone,,,Home Box Office Inc.;Warner Bros. Discovery,US,movies;series,FALSE,1999-05-06,2025-09-04,HBOMovies.us,http://www.hbo.com/
 HBTV.us,HBTV,,,,US,general,FALSE,,,,https://www.huntingtonbeachca.gov/residents/videos/
 HBTV.vn,HBTV,,,People's Committee of Hoa Binh Province,VN,general,FALSE,,,,https://hoabinhtv.vn/
 HBTVChannel9.gy,HBTV Channel 9,Hoyte-Blackman Television,,,GY,general,FALSE,1994-07-30,,,
@@ -10774,6 +10777,7 @@ HeartofAsiaChannel.ph,Heart of Asia Channel,Heart of Asia,,GMA Network Inc.,PH,e
 HeartRadioAruba.aw,Heart Radio Aruba,,,,AW,music,FALSE,,,,https://www.heartradio.com/
 HeartTV.uk,Heart TV,,,Ashley Tabor-King,UK,music,FALSE,2012-10-11,2018-10-11,,http://www.heart.co.uk/tv
 HeavenBoundTV.ke,Heaven Bound TV,,,,KE,religious,FALSE,,,,
+HeavenChannel.tz,Heaven Channel,,,,TZ,religious,FALSE,,,,
 HeavenTV.et,Heaven TV,,,,ET,religious,FALSE,,,,
 HebeiTV.cn,Hebei TV,河北电视台,,,CN,general,FALSE,,,,http://www.hebtv.com.cn/
 HebiNewsChannel.cn,Hebi News Channel,,,,CN,news,FALSE,,,,
@@ -11788,6 +11792,7 @@ INITPlayTV.lt,INIT Play TV,,,,LT,music,FALSE,,,,https://init-tv.lt/
 INITTV.lt,INIT TV,,,,LT,general,FALSE,,,,https://init-tv.lt/
 Inkavision.pe,Inkavision,Inkavisión,,,PE,,FALSE,,,,https://inkavision.pe/tv/
 InkMaster.us,Ink Master,,Pluto TV,Paramount Network Broadcasting Ltd;Paramount Skydance Corporation,US,documentary,FALSE,,,,https://pluto.tv/en/live-tv/ink-master
+InlandTV.tz,Inland TV,,,Inland Media,TZ,general,FALSE,,,,
 InmaculadaTV.hn,Inmaculada TV,,,Diócesis de Choluteca,HN,religious,FALSE,,,,https://inmaculadatv.jimdofree.com/
 InnerMongoliaFootballTV.cn,Inner Mongolia Football TV,,,,CN,sports,FALSE,,,,
 InnovaFMTV.pe,Innova FM TV,,,,PE,music,FALSE,,,,https://www.innovafm.com/
@@ -12434,7 +12439,7 @@ JPDTV.do,JPD TV,,,,DO,general,FALSE,,,,https://juanpabloduartetv.com/
 JPMTV.id,JPM TV,,Jawa Pos Multimedia,Jawa Pos Group,ID,general,FALSE,2016-01-17,,,
 JPNews.br,JP News,,,Antonio Augusto Amaral de Carvalho Filho,BR,news,FALSE,,,,https://jovempan.com.br/jpnews
 JPopsukiTV.us,JPopsuki TV,,,,US,music,FALSE,,,,https://jpopsuki.eu/media.php
-JPSTV.et,JPS TV,,,,ET,religious,FALSE,,,,
+JPSTV.et,JPS TV,,,Prophet Henok Girma,ET,religious,FALSE,,,,https://prophethenokgirma.org/
 JRTVJarviradio.fi,JRTV Jarviradio,Järviradio,,,FI,music,FALSE,,,,https://www.jarviradio.fi/
 JSLTV.et,JSL TV,,,,ET,religious,FALSE,,,,https://www.jslchurch.com/
 JSPORTS1.jp,J SPORTS 1,,,J Sports Corporation,JP,sports,FALSE,1998-04-25,,,http://www.jsports.co.jp/
@@ -15757,7 +15762,7 @@ More4.ie,More4,,,,IE,entertainment,FALSE,,,,
 More4.uk,More4,,,HM Government,UK,entertainment,FALSE,2005-10-10,,,https://www.channel4.com/
 MoreArizona.us,More! Arizona,,,,US,,FALSE,,,,https://cw7az.com/more-arizona/
 MoreGraceTV.ng,More Grace TV,,,,NG,religious,FALSE,,,,https://moregrace.tv/
-MoreMax.us,MoreMax,,,Warner Bros. Discovery Inc.,US,movies,FALSE,1998-01-01,,,http://www.cinemax.com/
+MoreMax.us,MoreMax,,,Warner Bros. Discovery Inc.,US,movies,FALSE,1998-01-01,2025-09-04,CinemaxHits.us,http://www.cinemax.com/
 MorenoTV.co,Moreno TV,,,,CO,general,FALSE,,,,
 MorenoVision.ar,Moreno Vision,Moreno Visión,,,AR,general,FALSE,,,,https://morenovision.net/
 MorePlutoTVComedy.us,More Pluto TV Comedy,,Pluto TV,Pluto Inc.;Paramount Skydance Corporation,US,comedy,FALSE,,,,https://pluto.tv/live-tv/more-pluto-tv-comedy-ca/details
@@ -16464,6 +16469,7 @@ NaaptolTelugu.in,Naaptol Telugu,,Naaptol,Naaptol Online Shopping Private Limited
 NabaaTV.lb,Nabaa TV,,,,LB,news,FALSE,,,,https://nabaatv.net/
 NabadTV.et,Nabad TV,,,,ET,news,FALSE,,,,http://nabadnews.com/
 NabawiTV.id,Nabawi TV,,,,ID,religious,FALSE,,,,https://nabawi.tv/
+NabiiTV.tz,Nabii TV,,,,TZ,religious,FALSE,,,,
 NablusTV.ps,Nablus TV,,,,PS,news,FALSE,,,,https://www.nablustv.net/
 NAC28TV.zm,NAC 28 TV,,,New Apostolic Church,ZM,religious,FALSE,,,,https://naczam.org.zm/en/
 Nachrichten360.de,Nachrichten 360,,News 360,Love TV Channels S.L.,DE,news,FALSE,2025-12-15,,,https://lovetvchannels.com/en/our-channels/#actualidad
@@ -17211,7 +17217,7 @@ NHTV.kr,NHTV,NHTV 농협방송,,,KR,entertainment,FALSE,,,,http://nhtv.co.kr/
 NhyirabaTV.gh,Nhyiraba TV,,,,GH,general,FALSE,,,,
 NiagaTV.id,Niaga TV,,,,ID,religious,FALSE,,,,http://www.niaga.tv/
 NicaraoTV.ni,Nicarao TV,Canal 51,,Gobierno de Nicaragua,NI,entertainment,FALSE,2022-05-31,,,
-NicaSportsTV.ni,NicaSports TV,,,,NI,sports,FALSE,2024-03-11,,,https://nicasports.tv/
+NicaSportsTV.ni,NicaSports TV,,,Real Estelí Fútbol Club,NI,sports,FALSE,2024-03-11,,,https://nicasports.tv/
 Nice.de,Nice,,,,DE,music,FALSE,,,,https://du-bist-nice.de/
 Nicely.uk,Nicely,,,,UK,lifestyle,FALSE,,,,https://www.mimyuni.com/
 NicerDicerTV.de,Nicer Dicer TV,,,,DE,shop,FALSE,,,,https://www.genius.tv/
@@ -21194,6 +21200,7 @@ RFMTV.cd,RFMTV,Radio et Télévision Forces des Médias,,,CD,general,FALSE,,,,ht
 RFMTV.fr,RFM TV,,,,FR,,FALSE,,,,http://www.rfm.fr/videos/RFMTV
 RFO.de,RFO,Regional Fernsehen Oberbayern,,Regional Fernsehen Oberbayern GmbH,DE,general,FALSE,,,,https://www.rfo.de/
 RFPtv.pt,RFPtv,Rádio do Folclore Português TV,,,PT,music,FALSE,,,,https://www.rfptv.pt/
+RGCM.tz,RGCM,RGC Ministry;Restoration Gospel Commission Ministry,,Evangelist Daniely Joshua,TZ,religious,FALSE,,,,https://www.rgcm.org/
 RHCTV.hn,RHC TV,Roatán Hable Claro,,,HN,general,FALSE,,,,https://roatanhableclaro.com/
 rheinlOKal.de,rheinlOKal,,,,DE,general,FALSE,,,,https://rheinlokal.de/
 RheinMainTV.de,RheinMain TV,,,Rhein-Main TV GmbH & Co. KG,DE,general,FALSE,2003-10-27,,,https://www.rheinmaintv.de/
@@ -22993,6 +23000,7 @@ SkyHistory.ie,Sky History,,,,IE,documentary,FALSE,,,,
 SkyHistory.uk,Sky History,,A+E Networks EMEA,,UK,documentary,FALSE,,,,https://www.history.co.uk/
 SkyHistory2.uk,Sky History 2,,A+E Networks EMEA,,UK,documentary,FALSE,,,,https://www.history.co.uk/history2
 skyICT.kr,skyICT,,,,KR,,FALSE,2014-08-01,2019-04-30,WeLike.kr,https://tv.skylife.co.kr/skyict
+SkyInternationalTV.tz,Sky International TV,,,,TZ,general,FALSE,,,,
 SkyInvestigation.it,Sky Investigation,Sky Investigation HD,,Sky Group Limited,IT,,FALSE,2021-07-01,,,https://www.sky.it/
 SkyKids.uk,Sky Kids,,,Sky Group,UK,kids,FALSE,2023-01-01,,,https://www.sky.com/
 SkyKrimi.de,Sky Krimi,Premiere Krimi;Krimi & Co,,Sky Deutschland,DE,,FALSE,1996-07-28,,,https://www.sky.de/
@@ -23585,6 +23593,7 @@ SouthParkStarsSternchen.de,South Park: Stars & Sternchen,Comedy Central South Pa
 SouthParkVersionOriginal.de,South Park Version Original,South Park Versión Original;Comedy Central South Park Version Original,Pluto TV,Comedy Partners;Viacom International Inc.;Pluto TV Europe GmbH;Paramount Skydance Corporation,DE,animation;comedy,FALSE,,,,https://pluto.tv/live-tv/south-park-version-original-es/details
 SouthParkWelcometoCanada.us,South Park: Welcome to Canada!,Comedy Central South Park: Welcome to Canada!,Pluto TV,Comedy Partners;Viacom International Inc.;Pluto Inc.;Paramount Skydance Corporation,US,animation;comedy,FALSE,,,,https://pluto.tv/live-tv/south-park-welcome-to-canada-ca/details
 SouthStation.in,South Station,,,Samsung India Electronics Pvt. Ltd.,IN,movies,FALSE,2022-02-14,,,
+SouthwestMediaNetwork.et,Southwest Media Network,,,,ET,general,FALSE,,,,https://southwestethiomedianetwork.com/
 SouthwickChannel15.us,Southwick Channel 15,,,,US,general,FALSE,,,,https://www.southwickma.org/channel-15-public-access
 SoutMasr.eg,Sout Masr,,,,EG,,FALSE,,,,
 SOUTV.br,SOU TV,,,,BR,general,FALSE,,,,https://www.soutv.com.br/
@@ -25030,7 +25039,7 @@ TaynyGalaktiki.ru,Tayny Galaktiki,Тайны Галактики;Galaxy,,NSK Stud
 TAYTV.tr,TAY TV,,,,TR,,FALSE,,,,https://www.tjk.org/
 Tb1.ba,Tb1,Tß1,,Callidus d.o.o. Trebinje,BA,,FALSE,,,,
 TBAENetwork.us,TBAE Network,,,,US,education,FALSE,,,,https://watch.tbae.net/
-TBC1.tz,TBC1,,,Tanzania Broadcasting Corporation,TZ,general,FALSE,,,,http://tbc.go.tz/
+TBC1.tz,TBC1,,,Tanzania Broadcasting Corporation,TZ,general,FALSE,2000-03-15,,,http://tbc.go.tz/
 TBC2.tz,TBC2,,,Tanzania Broadcasting Corporation,TZ,entertainment,FALSE,,,,https://www.tbc.go.tz/
 TBCN.us,TBCN,,,,US,general,FALSE,,,,https://reflect-tampa-bay-community.cablecast.tv/CablecastPublicSite/watch/1?channel=1
 TBMMTV.tr,TBMM TV,,,TRT;TBMM,TR,,FALSE,1994-12-10,,,https://www.tbmm.gov.tr/
@@ -28939,7 +28948,7 @@ UTV.lc,UTV,,,,LC,entertainment,FALSE,,,,
 UTV.lk,UTV,Udhayam TV,,SATIS Agency (Pvt) Ltd,LK,general,FALSE,2017-03-23,,,https://www.utv.lk/
 UTV.mt,UTV,,,,MT,religious,FALSE,,,,https://utv.mt/
 UTV.ro,UTV,,,,RO,,FALSE,,,,https://www.utv.ro/
-UTV.tz,UTV,,,Azam Media,TZ,general,FALSE,,,,https://azamtv.co.tz/
+UTV.tz,UTV,,,Bakhresa Group,TZ,general,FALSE,,,,https://azamtv.co.tz/
 UTV.uk,UTV,Ulster Television,ITV,ITV plc,UK,,FALSE,1959-10-31,,,http://www.u.tv/
 UTVAfrica.ng,UTV Africa,,,,NG,general,FALSE,,,,https://www.utvafrica.com/watch
 UTVHD.in,UTV HD,,JioStar,JioStar India Pvt. Ltd.,IN,movies,FALSE,,2023-03-14,,https://hotstar.com/
@@ -30261,7 +30270,7 @@ WOBI.ar,WOBI,,,,AR,,FALSE,,,,https://www.wobi.com/
 WODHLD341.us,WODH-LD 34.1,WODH-LD,Infomercials,DTV America Corporation,US,,FALSE,,,,
 WODHLD343.us,WODH-LD 34.3,WODH-LD,Infomercials,DTV America Corporation,US,,FALSE,,,,
 WoezorTV.gh,Woezor TV,,,,GH,general,FALSE,,,,https://woezor.tv/
-WolaitaTV.et,Wolaita TV,,,,ET,,FALSE,,,,
+WolaitaTV.et,Wolaita TV,,,,ET,general,FALSE,,,,
 WOLEDT122.pr,WOLE-DT 12.2,WOLE-HD,Spanish Independent,Liberman Media Group LLC,PR,general,FALSE,,,,https://publicfiles.fcc.gov/tv-profile/WOLE-DT
 WolvesValleyTV.tw,Wolves Valley TV,,,,TW,,FALSE,,,,http://www.esports.com.tw/
 Woman.bg,Woman,,,,BG,,FALSE,,,,
